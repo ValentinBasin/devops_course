@@ -1,0 +1,2 @@
+docker volume create mysql_volume
+docker run -itd --name mysql --mount source=mysql_volume,target=/var/lib/mysql -e MYSQL_ROOT_PASSWORD=12345678 mysql

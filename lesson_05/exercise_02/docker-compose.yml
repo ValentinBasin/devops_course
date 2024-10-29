@@ -1,0 +1,37 @@
+services:
+  elasticsearch:
+    image: elasticsearch:7.17.25
+    environment:
+      discovery.type: single-node
+    networks:
+      - elasticsearch-neywork
+    ports:
+      - 9200:9200
+      - 9300:9300
+
+  kibana:
+    image: kibana:7.17.25
+    environment:
+      ELASTICSEARCH_HOSTS: http://elasticsearch:9200
+    networks:
+      - elasticsearch-neywork
+    ports: 
+      - 5601:5601
+    depends_on: 
+      - elasticsearch
+
+  logstash:
+    image: logstash:7.17.25
+    environment:
+      ELASTIC_HOSTS: http://elasticsearch:9200
+    networks:
+      - elasticsearch-neywork
+    depends_on:
+      - elasticsearch
+      - kibana
+    
+
+networks:
+  elasticsearch-neywork:
+    driver: bridge
+
