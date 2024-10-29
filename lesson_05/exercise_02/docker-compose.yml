@@ -8,6 +8,8 @@ services:
     ports:
       - 9200:9200
       - 9300:9300
+    volumes:
+      - elasticsearch-data:/usr/share/elasticsearch/data/
 
   kibana:
     image: kibana:7.17.25
@@ -22,14 +24,20 @@ services:
 
   logstash:
     image: logstash:7.17.25
+    volumes:
+      - ./logstash_config/logstash.conf:/usr/share/logstash/pipeline/logstash.conf
     environment:
       ELASTIC_HOSTS: http://elasticsearch:9200
     networks:
       - elasticsearch-neywork
     depends_on:
       - elasticsearch
-      - kibana
     
+
+volumes:
+  elasticsearch-data:
+    driver: local
+
 
 networks:
   elasticsearch-neywork:
