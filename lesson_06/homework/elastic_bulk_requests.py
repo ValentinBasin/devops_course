@@ -8,9 +8,9 @@ csv_to_json(csv_file_path, json_file_path)
 with open(json_file_path, "r") as file:
     data = file.read()
 url = "http://localhost:9200/movies/_bulk"
-r = requests.post(
+requests.post(
     url,
     auth=("elastic", "changeme"),
     headers={"content-type": "application/json", "charset": "UTF-8"},
-    data=data,
+    data=str(data),
 )
