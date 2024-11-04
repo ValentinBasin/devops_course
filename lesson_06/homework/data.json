@@ -5,15 +5,15 @@
 {"index": {}}
 {"moviename": "The Dark Knight", "datereleased": 2008, "genere": "Crime", "rating": 84}
 {"index": {}}
-{"moviename": "The Godfather: Part II", "datereleased": 1974, "genere": "Drama", "rating": 90}
+{"moviename": "The Godfather: Part II", "datereleased": 1974, "genere": "Crime", "rating": 90}
 {"index": {}}
-{"moviename": "12 Angry Men", "datereleased": 1957, "genere": "Drama", "rating": 96}
+{"moviename": "12 Angry Men", "datereleased": 1957, "genere": "Crime", "rating": 96}
 {"index": {}}
-{"moviename": "The Lord of the Rings: The Return of the King", "datereleased": 2003, "genere": "Action", "rating": 94}
+{"moviename": "The Lord of the Rings: The Return of the King", "datereleased": 2003, "genere": "Drama", "rating": 94}
 {"index": {}}
 {"moviename": "Pulp Fiction", "datereleased": 1994, "genere": "Drama", "rating": 94}
 {"index": {}}
-{"moviename": "Schindler's List", "datereleased": 1993, "genere": "Biography", "rating": 94}
+{"moviename": "Schindler's List", "datereleased": 1993, "genere": "History", "rating": 94}
 {"index": {}}
 {"moviename": "Inception", "datereleased": 2010, "genere": "Adventure", "rating": 74}
 {"index": {}}
@@ -25,59 +25,59 @@
 {"index": {}}
 {"moviename": "Il buono, il brutto, il cattivo", "datereleased": 1966, "genere": "Western", "rating": 90}
 {"index": {}}
-{"moviename": "The Lord of the Rings: The Two Towers", "datereleased": 2002, "genere": "Adventure", "rating": 87}
+{"moviename": "The Lord of the Rings: The Two Towers", "datereleased": 2002, "genere": "Action", "rating": 87}
 {"index": {}}
 {"moviename": "The Matrix", "datereleased": 1999, "genere": "Action", "rating": 73}
 {"index": {}}
 {"moviename": "Goodfellas", "datereleased": 1990, "genere": "Drama", "rating": 90}
 {"index": {}}
-{"moviename": "Star Wars: Episode V - The Empire Strikes Back", "datereleased": 1980, "genere": "Action", "rating": 82}
+{"moviename": "Star Wars: Episode V - The Empire Strikes Back", "datereleased": 1980, "genere": "Fantasy", "rating": 82}
 {"index": {}}
 {"moviename": "One Flew Over the Cuckoo's Nest", "datereleased": 1975, "genere": "Drama", "rating": 83}
 {"index": {}}
-{"moviename": "Hamilton", "datereleased": 2020, "genere": "Biography", "rating": 90}
+{"moviename": "Hamilton", "datereleased": 2020, "genere": "Drama", "rating": 90}
 {"index": {}}
-{"moviename": "Gisaengchung", "datereleased": 2019, "genere": "Drama", "rating": 96}
+{"moviename": "Gisaengchung", "datereleased": 2019, "genere": "Comedy", "rating": 96}
 {"index": {}}
 {"moviename": "Soorarai Pottru", "datereleased": 2020, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Interstellar", "datereleased": 2014, "genere": "Sci-Fi", "rating": 74}
+{"moviename": "Interstellar", "datereleased": 2014, "genere": "Drama", "rating": 74}
 {"index": {}}
-{"moviename": "Cidade de Deus", "datereleased": 2002, "genere": "Crime", "rating": 79}
+{"moviename": "Cidade de Deus", "datereleased": 2002, "genere": "Drama", "rating": 79}
 {"index": {}}
 {"moviename": "Sen to Chihiro no kamikakushi", "datereleased": 2001, "genere": "Animation", "rating": 96}
 {"index": {}}
-{"moviename": "Saving Private Ryan", "datereleased": 1998, "genere": "Drama", "rating": 91}
+{"moviename": "Saving Private Ryan", "datereleased": 1998, "genere": "War", "rating": 91}
 {"index": {}}
-{"moviename": "The Green Mile", "datereleased": 1999, "genere": "Fantasy", "rating": 61}
+{"moviename": "The Green Mile", "datereleased": 1999, "genere": "Crime", "rating": 61}
 {"index": {}}
 {"moviename": "La vita \u00e8 bella", "datereleased": 1997, "genere": "Drama", "rating": 59}
 {"index": {}}
-{"moviename": "Se7en", "datereleased": 1995, "genere": "Drama", "rating": 65}
+{"moviename": "Se7en", "datereleased": 1995, "genere": "Mystery", "rating": 65}
 {"index": {}}
 {"moviename": "The Silence of the Lambs", "datereleased": 1991, "genere": "Thriller", "rating": 85}
 {"index": {}}
-{"moviename": "Star Wars", "datereleased": 1977, "genere": "Fantasy", "rating": 90}
+{"moviename": "Star Wars", "datereleased": 1977, "genere": "Adventure", "rating": 90}
 {"index": {}}
-{"moviename": "Seppuku", "datereleased": 1962, "genere": "Action", "rating": 85}
+{"moviename": "Seppuku", "datereleased": 1962, "genere": "Drama", "rating": 85}
 {"index": {}}
 {"moviename": "Shichinin no samurai", "datereleased": 1954, "genere": "Adventure", "rating": 98}
 {"index": {}}
-{"moviename": "It's a Wonderful Life", "datereleased": 1946, "genere": "Drama", "rating": 89}
+{"moviename": "It's a Wonderful Life", "datereleased": 1946, "genere": "Family", "rating": 89}
 {"index": {}}
 {"moviename": "Joker", "datereleased": 2019, "genere": "Drama", "rating": 59}
 {"index": {}}
 {"moviename": "Whiplash", "datereleased": 2014, "genere": "Music", "rating": 88}
 {"index": {}}
-{"moviename": "The Intouchables", "datereleased": 2011, "genere": "Drama", "rating": 57}
+{"moviename": "The Intouchables", "datereleased": 2011, "genere": "Biography", "rating": 57}
 {"index": {}}
-{"moviename": "The Prestige", "datereleased": 2006, "genere": "Sci-Fi", "rating": 66}
+{"moviename": "The Prestige", "datereleased": 2006, "genere": "Mystery", "rating": 66}
 {"index": {}}
-{"moviename": "The Departed", "datereleased": 2006, "genere": "Crime", "rating": 85}
+{"moviename": "The Departed", "datereleased": 2006, "genere": "Thriller", "rating": 85}
 {"index": {}}
-{"moviename": "The Pianist", "datereleased": 2002, "genere": "Music", "rating": 85}
+{"moviename": "The Pianist", "datereleased": 2002, "genere": "Drama", "rating": 85}
 {"index": {}}
-{"moviename": "Gladiator", "datereleased": 2000, "genere": "Adventure", "rating": 67}
+{"moviename": "Gladiator", "datereleased": 2000, "genere": "Action", "rating": 67}
 {"index": {}}
 {"moviename": "American History X", "datereleased": 1998, "genere": "Drama", "rating": 62}
 {"index": {}}
@@ -97,67 +97,67 @@
 {"index": {}}
 {"moviename": "Once Upon a Time in the West", "datereleased": 1968, "genere": "Western", "rating": 80}
 {"index": {}}
-{"moviename": "Psycho", "datereleased": 1960, "genere": "Thriller", "rating": 97}
+{"moviename": "Psycho", "datereleased": 1960, "genere": "Mystery", "rating": 97}
 {"index": {}}
-{"moviename": "Casablanca", "datereleased": 1942, "genere": "Drama", "rating": 100}
+{"moviename": "Casablanca", "datereleased": 1942, "genere": "War", "rating": 100}
 {"index": {}}
-{"moviename": "Modern Times", "datereleased": 1936, "genere": "Drama", "rating": 96}
+{"moviename": "Modern Times", "datereleased": 1936, "genere": "Comedy", "rating": 96}
 {"index": {}}
 {"moviename": "City Lights", "datereleased": 1931, "genere": "Drama", "rating": 99}
 {"index": {}}
 {"moviename": "Capharna\u00fcm", "datereleased": 2018, "genere": "Drama", "rating": 75}
 {"index": {}}
-{"moviename": "Ayla: The Daughter of War", "datereleased": 2017, "genere": "Biography"}
+{"moviename": "Ayla: The Daughter of War", "datereleased": 2017, "genere": "History"}
 {"index": {}}
 {"moviename": "Vikram Vedha", "datereleased": 2017, "genere": "Action"}
 {"index": {}}
-{"moviename": "Kimi no na wa.", "datereleased": 2016, "genere": "Animation", "rating": 79}
+{"moviename": "Kimi no na wa.", "datereleased": 2016, "genere": "Drama", "rating": 79}
 {"index": {}}
-{"moviename": "Dangal", "datereleased": 2016, "genere": "Drama"}
+{"moviename": "Dangal", "datereleased": 2016, "genere": "Action"}
 {"index": {}}
-{"moviename": "Spider-Man: Into the Spider-Verse", "datereleased": 2018, "genere": "Animation", "rating": 87}
+{"moviename": "Spider-Man: Into the Spider-Verse", "datereleased": 2018, "genere": "Adventure", "rating": 87}
 {"index": {}}
-{"moviename": "Avengers: Endgame", "datereleased": 2019, "genere": "Action", "rating": 78}
+{"moviename": "Avengers: Endgame", "datereleased": 2019, "genere": "Adventure", "rating": 78}
 {"index": {}}
-{"moviename": "Avengers: Infinity War", "datereleased": 2018, "genere": "Action", "rating": 68}
+{"moviename": "Avengers: Infinity War", "datereleased": 2018, "genere": "Adventure", "rating": 68}
 {"index": {}}
-{"moviename": "Coco", "datereleased": 2017, "genere": "Adventure", "rating": 81}
+{"moviename": "Coco", "datereleased": 2017, "genere": "Animation", "rating": 81}
 {"index": {}}
-{"moviename": "Django Unchained", "datereleased": 2012, "genere": "Western", "rating": 81}
+{"moviename": "Django Unchained", "datereleased": 2012, "genere": "Drama", "rating": 81}
 {"index": {}}
-{"moviename": "The Dark Knight Rises", "datereleased": 2012, "genere": "Action", "rating": 78}
+{"moviename": "The Dark Knight Rises", "datereleased": 2012, "genere": "Adventure", "rating": 78}
 {"index": {}}
-{"moviename": "3 Idiots", "datereleased": 2009, "genere": "Drama", "rating": 67}
+{"moviename": "3 Idiots", "datereleased": 2009, "genere": "Comedy", "rating": 67}
 {"index": {}}
-{"moviename": "Taare Zameen Par", "datereleased": 2007, "genere": "Family"}
+{"moviename": "Taare Zameen Par", "datereleased": 2007, "genere": "Drama"}
 {"index": {}}
 {"moviename": "WALL\u00b7E", "datereleased": 2008, "genere": "Family", "rating": 95}
 {"index": {}}
 {"moviename": "The Lives of Others", "datereleased": 2006, "genere": "Drama", "rating": 89}
 {"index": {}}
-{"moviename": "Oldeuboi", "datereleased": 2003, "genere": "Mystery", "rating": 77}
+{"moviename": "Oldeuboi", "datereleased": 2003, "genere": "Drama", "rating": 77}
 {"index": {}}
-{"moviename": "Memento", "datereleased": 2000, "genere": "Thriller", "rating": 80}
+{"moviename": "Memento", "datereleased": 2000, "genere": "Mystery", "rating": 80}
 {"index": {}}
 {"moviename": "Mononoke-hime", "datereleased": 1997, "genere": "Adventure", "rating": 76}
 {"index": {}}
-{"moviename": "Once Upon a Time in America", "datereleased": 1984, "genere": "Drama"}
+{"moviename": "Once Upon a Time in America", "datereleased": 1984, "genere": "Crime"}
 {"index": {}}
 {"moviename": "Raiders of the Lost Ark", "datereleased": 1981, "genere": "Adventure", "rating": 85}
 {"index": {}}
 {"moviename": "The Shining", "datereleased": 1980, "genere": "Drama", "rating": 66}
 {"index": {}}
-{"moviename": "Apocalypse Now", "datereleased": 1979, "genere": "Mystery", "rating": 94}
+{"moviename": "Apocalypse Now", "datereleased": 1979, "genere": "War", "rating": 94}
 {"index": {}}
-{"moviename": "Alien", "datereleased": 1979, "genere": "Horror", "rating": 89}
+{"moviename": "Alien", "datereleased": 1979, "genere": "Sci-Fi", "rating": 89}
 {"index": {}}
 {"moviename": "Anand", "datereleased": 1971, "genere": "Musical"}
 {"index": {}}
-{"moviename": "Tengoku to jigoku", "datereleased": 1963, "genere": "Crime"}
+{"moviename": "Tengoku to jigoku", "datereleased": 1963, "genere": "Mystery"}
 {"index": {}}
 {"moviename": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb", "datereleased": 1964, "genere": "Comedy", "rating": 97}
 {"index": {}}
-{"moviename": "Witness for the Prosecution", "datereleased": 1957, "genere": "Drama"}
+{"moviename": "Witness for the Prosecution", "datereleased": 1957, "genere": "Crime"}
 {"index": {}}
 {"moviename": "Paths of Glory", "datereleased": 1957, "genere": "War", "rating": 90}
 {"index": {}}
@@ -165,15 +165,15 @@
 {"index": {}}
 {"moviename": "Sunset Blvd.", "datereleased": 1950, "genere": "Film-Noir"}
 {"index": {}}
-{"moviename": "The Great Dictator", "datereleased": 1940, "genere": "Comedy"}
+{"moviename": "The Great Dictator", "datereleased": 1940, "genere": "War"}
 {"index": {}}
 {"moviename": "1917", "datereleased": 2019, "genere": "War", "rating": 78}
 {"index": {}}
-{"moviename": "Tumbbad", "datereleased": 2018, "genere": "Horror"}
+{"moviename": "Tumbbad", "datereleased": 2018, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Andhadhun", "datereleased": 2018, "genere": "Drama"}
+{"moviename": "Andhadhun", "datereleased": 2018, "genere": "Crime"}
 {"index": {}}
-{"moviename": "Drishyam", "datereleased": 2013, "genere": "Thriller"}
+{"moviename": "Drishyam", "datereleased": 2013, "genere": "Drama"}
 {"index": {}}
 {"moviename": "Jagten", "datereleased": 2012, "genere": "Drama", "rating": 77}
 {"index": {}}
@@ -185,13 +185,13 @@
 {"index": {}}
 {"moviename": "Babam ve Oglum", "datereleased": 2005, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Inglourious Basterds", "datereleased": 2009, "genere": "Drama", "rating": 69}
+{"moviename": "Inglourious Basterds", "datereleased": 2009, "genere": "War", "rating": 69}
 {"index": {}}
 {"moviename": "Eternal Sunshine of the Spotless Mind", "datereleased": 2004, "genere": "Romance", "rating": 89}
 {"index": {}}
-{"moviename": "Am\u00e9lie", "datereleased": 2001, "genere": "Comedy", "rating": 69}
+{"moviename": "Am\u00e9lie", "datereleased": 2001, "genere": "Romance", "rating": 69}
 {"index": {}}
-{"moviename": "Snatch", "datereleased": 2000, "genere": "Crime", "rating": 55}
+{"moviename": "Snatch", "datereleased": 2000, "genere": "Comedy", "rating": 55}
 {"index": {}}
 {"moviename": "Requiem for a Dream", "datereleased": 2000, "genere": "Drama", "rating": 68}
 {"index": {}}
@@ -199,11 +199,11 @@
 {"index": {}}
 {"moviename": "Good Will Hunting", "datereleased": 1997, "genere": "Romance", "rating": 70}
 {"index": {}}
-{"moviename": "Bacheha-Ye aseman", "datereleased": 1997, "genere": "Family", "rating": 77}
+{"moviename": "Bacheha-Ye aseman", "datereleased": 1997, "genere": "Sport", "rating": 77}
 {"index": {}}
 {"moviename": "Toy Story", "datereleased": 1995, "genere": "Comedy", "rating": 95}
 {"index": {}}
-{"moviename": "Braveheart", "datereleased": 1995, "genere": "History", "rating": 68}
+{"moviename": "Braveheart", "datereleased": 1995, "genere": "Biography", "rating": 68}
 {"index": {}}
 {"moviename": "Reservoir Dogs", "datereleased": 1992, "genere": "Crime", "rating": 79}
 {"index": {}}
@@ -213,7 +213,7 @@
 {"index": {}}
 {"moviename": "Aliens", "datereleased": 1986, "genere": "Sci-Fi", "rating": 84}
 {"index": {}}
-{"moviename": "Amadeus", "datereleased": 1984, "genere": "Drama", "rating": 88}
+{"moviename": "Amadeus", "datereleased": 1984, "genere": "Biography", "rating": 88}
 {"index": {}}
 {"moviename": "Scarface", "datereleased": 1983, "genere": "Drama", "rating": 65}
 {"index": {}}
@@ -221,35 +221,35 @@
 {"index": {}}
 {"moviename": "Das Boot", "datereleased": 1981, "genere": "Drama", "rating": 86}
 {"index": {}}
-{"moviename": "Taxi Driver", "datereleased": 1976, "genere": "Drama", "rating": 94}
+{"moviename": "Taxi Driver", "datereleased": 1976, "genere": "Crime", "rating": 94}
 {"index": {}}
 {"moviename": "The Sting", "datereleased": 1973, "genere": "Drama", "rating": 83}
 {"index": {}}
-{"moviename": "A Clockwork Orange", "datereleased": 1971, "genere": "Crime", "rating": 77}
+{"moviename": "A Clockwork Orange", "datereleased": 1971, "genere": "Drama", "rating": 77}
 {"index": {}}
-{"moviename": "2001: A Space Odyssey", "datereleased": 1968, "genere": "Adventure", "rating": 84}
+{"moviename": "2001: A Space Odyssey", "datereleased": 1968, "genere": "Sci-Fi", "rating": 84}
 {"index": {}}
 {"moviename": "Per qualche dollaro in pi\u00f9", "datereleased": 1965, "genere": "Western", "rating": 74}
 {"index": {}}
-{"moviename": "Lawrence of Arabia", "datereleased": 1962, "genere": "Biography", "rating": 100}
+{"moviename": "Lawrence of Arabia", "datereleased": 1962, "genere": "Drama", "rating": 100}
 {"index": {}}
-{"moviename": "The Apartment", "datereleased": 1960, "genere": "Comedy", "rating": 94}
+{"moviename": "The Apartment", "datereleased": 1960, "genere": "Drama", "rating": 94}
 {"index": {}}
 {"moviename": "North by Northwest", "datereleased": 1959, "genere": "Thriller", "rating": 98}
 {"index": {}}
 {"moviename": "Vertigo", "datereleased": 1958, "genere": "Mystery", "rating": 100}
 {"index": {}}
-{"moviename": "Singin' in the Rain", "datereleased": 1952, "genere": "Romance", "rating": 99}
+{"moviename": "Singin' in the Rain", "datereleased": 1952, "genere": "Musical", "rating": 99}
 {"index": {}}
 {"moviename": "Ikiru", "datereleased": 1952, "genere": "Drama"}
 {"index": {}}
 {"moviename": "Ladri di biciclette", "datereleased": 1948, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Double Indemnity", "datereleased": 1944, "genere": "Crime", "rating": 95}
+{"moviename": "Double Indemnity", "datereleased": 1944, "genere": "Film-Noir", "rating": 95}
 {"index": {}}
 {"moviename": "Citizen Kane", "datereleased": 1941, "genere": "Drama", "rating": 100}
 {"index": {}}
-{"moviename": "M - Eine Stadt sucht einen M\u00f6rder", "datereleased": 1931, "genere": "Crime"}
+{"moviename": "M - Eine Stadt sucht einen M\u00f6rder", "datereleased": 1931, "genere": "Thriller"}
 {"index": {}}
 {"moviename": "Metropolis", "datereleased": 1927, "genere": "Drama", "rating": 98}
 {"index": {}}
@@ -257,7 +257,7 @@
 {"index": {}}
 {"moviename": "Chhichhore", "datereleased": 2019, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Uri: The Surgical Strike", "datereleased": 2018, "genere": "Action"}
+{"moviename": "Uri: The Surgical Strike", "datereleased": 2018, "genere": "War"}
 {"index": {}}
 {"moviename": "K.G.F: Chapter 1", "datereleased": 2018, "genere": "Action"}
 {"index": {}}
@@ -265,77 +265,77 @@
 {"index": {}}
 {"moviename": "Three Billboards Outside Ebbing, Missouri", "datereleased": 2017, "genere": "Drama", "rating": 88}
 {"index": {}}
-{"moviename": "Talvar", "datereleased": 2015, "genere": "Mystery"}
+{"moviename": "Talvar", "datereleased": 2015, "genere": "Drama"}
 {"index": {}}
 {"moviename": "Baahubali 2: The Conclusion", "datereleased": 2017, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Klaus", "datereleased": 2019, "genere": "Comedy", "rating": 65}
+{"moviename": "Klaus", "datereleased": 2019, "genere": "Animation", "rating": 65}
 {"index": {}}
-{"moviename": "Drishyam", "datereleased": 2015, "genere": "Crime"}
+{"moviename": "Drishyam", "datereleased": 2015, "genere": "Mystery"}
 {"index": {}}
-{"moviename": "Queen", "datereleased": 2013, "genere": "Drama"}
+{"moviename": "Queen", "datereleased": 2013, "genere": "Adventure"}
 {"index": {}}
 {"moviename": "Mandariinid", "datereleased": 2013, "genere": "War", "rating": 73}
 {"index": {}}
-{"moviename": "Bhaag Milkha Bhaag", "datereleased": 2013, "genere": "Biography"}
+{"moviename": "Bhaag Milkha Bhaag", "datereleased": 2013, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Gangs of Wasseypur", "datereleased": 2012, "genere": "Action", "rating": 89}
+{"moviename": "Gangs of Wasseypur", "datereleased": 2012, "genere": "Crime", "rating": 89}
 {"index": {}}
 {"moviename": "Udaan", "datereleased": 2010, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Paan Singh Tomar", "datereleased": 2012, "genere": "Biography"}
+{"moviename": "Paan Singh Tomar", "datereleased": 2012, "genere": "Crime"}
 {"index": {}}
-{"moviename": "El secreto de sus ojos", "datereleased": 2009, "genere": "Drama", "rating": 80}
+{"moviename": "El secreto de sus ojos", "datereleased": 2009, "genere": "Mystery", "rating": 80}
 {"index": {}}
-{"moviename": "Warrior", "datereleased": 2011, "genere": "Drama", "rating": 71}
+{"moviename": "Warrior", "datereleased": 2011, "genere": "Sport", "rating": 71}
 {"index": {}}
-{"moviename": "Shutter Island", "datereleased": 2010, "genere": "Mystery", "rating": 63}
+{"moviename": "Shutter Island", "datereleased": 2010, "genere": "Thriller", "rating": 63}
 {"index": {}}
-{"moviename": "Up", "datereleased": 2009, "genere": "Adventure", "rating": 88}
+{"moviename": "Up", "datereleased": 2009, "genere": "Comedy", "rating": 88}
 {"index": {}}
-{"moviename": "The Wolf of Wall Street", "datereleased": 2013, "genere": "Biography", "rating": 75}
+{"moviename": "The Wolf of Wall Street", "datereleased": 2013, "genere": "Drama", "rating": 75}
 {"index": {}}
-{"moviename": "Chak De! India", "datereleased": 2007, "genere": "Drama", "rating": 68}
+{"moviename": "Chak De! India", "datereleased": 2007, "genere": "Family", "rating": 68}
 {"index": {}}
 {"moviename": "There Will Be Blood", "datereleased": 2007, "genere": "Drama", "rating": 93}
 {"index": {}}
 {"moviename": "Pan's Labyrinth", "datereleased": 2006, "genere": "War", "rating": 98}
 {"index": {}}
-{"moviename": "Toy Story 3", "datereleased": 2010, "genere": "Animation", "rating": 92}
+{"moviename": "Toy Story 3", "datereleased": 2010, "genere": "Comedy", "rating": 92}
 {"index": {}}
-{"moviename": "V for Vendetta", "datereleased": 2005, "genere": "Sci-Fi", "rating": 62}
+{"moviename": "V for Vendetta", "datereleased": 2005, "genere": "Action", "rating": 62}
 {"index": {}}
-{"moviename": "Rang De Basanti", "datereleased": 2006, "genere": "Drama"}
+{"moviename": "Rang De Basanti", "datereleased": 2006, "genere": "Crime"}
 {"index": {}}
 {"moviename": "Black", "datereleased": 2005, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Batman Begins", "datereleased": 2005, "genere": "Action", "rating": 70}
+{"moviename": "Batman Begins", "datereleased": 2005, "genere": "Adventure", "rating": 70}
 {"index": {}}
 {"moviename": "Swades: We, the People", "datereleased": 2004, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Der Untergang", "datereleased": 2004, "genere": "History", "rating": 82}
+{"moviename": "Der Untergang", "datereleased": 2004, "genere": "Drama", "rating": 82}
 {"index": {}}
 {"moviename": "Hauru no ugoku shiro", "datereleased": 2004, "genere": "Animation", "rating": 80}
 {"index": {}}
 {"moviename": "A Beautiful Mind", "datereleased": 2001, "genere": "Biography", "rating": 72}
 {"index": {}}
-{"moviename": "Hera Pheri", "datereleased": 2000, "genere": "Action"}
+{"moviename": "Hera Pheri", "datereleased": 2000, "genere": "Crime"}
 {"index": {}}
-{"moviename": "Lock, Stock and Two Smoking Barrels", "datereleased": 1998, "genere": "Action", "rating": 66}
+{"moviename": "Lock, Stock and Two Smoking Barrels", "datereleased": 1998, "genere": "Comedy", "rating": 66}
 {"index": {}}
-{"moviename": "L.A. Confidential", "datereleased": 1997, "genere": "Drama", "rating": 90}
+{"moviename": "L.A. Confidential", "datereleased": 1997, "genere": "Mystery", "rating": 90}
 {"index": {}}
-{"moviename": "Eskiya", "datereleased": 1996, "genere": "Crime"}
+{"moviename": "Eskiya", "datereleased": 1996, "genere": "Thriller"}
 {"index": {}}
-{"moviename": "Heat", "datereleased": 1995, "genere": "Drama", "rating": 76}
+{"moviename": "Heat", "datereleased": 1995, "genere": "Crime", "rating": 76}
 {"index": {}}
-{"moviename": "Casino", "datereleased": 1995, "genere": "Drama", "rating": 73}
+{"moviename": "Casino", "datereleased": 1995, "genere": "Crime", "rating": 73}
 {"index": {}}
-{"moviename": "Andaz Apna Apna", "datereleased": 1994, "genere": "Comedy"}
+{"moviename": "Andaz Apna Apna", "datereleased": 1994, "genere": "Romance"}
 {"index": {}}
-{"moviename": "Unforgiven", "datereleased": 1992, "genere": "Drama", "rating": 85}
+{"moviename": "Unforgiven", "datereleased": 1992, "genere": "Western", "rating": 85}
 {"index": {}}
-{"moviename": "Indiana Jones and the Last Crusade", "datereleased": 1989, "genere": "Action", "rating": 65}
+{"moviename": "Indiana Jones and the Last Crusade", "datereleased": 1989, "genere": "Adventure", "rating": 65}
 {"index": {}}
 {"moviename": "Dom za vesanje", "datereleased": 1988, "genere": "Crime"}
 {"index": {}}
@@ -345,19 +345,19 @@
 {"index": {}}
 {"moviename": "Ran", "datereleased": 1985, "genere": "Drama", "rating": 96}
 {"index": {}}
-{"moviename": "Raging Bull", "datereleased": 1980, "genere": "Drama", "rating": 89}
+{"moviename": "Raging Bull", "datereleased": 1980, "genere": "Biography", "rating": 89}
 {"index": {}}
-{"moviename": "Stalker", "datereleased": 1979, "genere": "Drama"}
+{"moviename": "Stalker", "datereleased": 1979, "genere": "Sci-Fi"}
 {"index": {}}
 {"moviename": "H\u00f6stsonaten", "datereleased": 1978, "genere": "Music"}
 {"index": {}}
-{"moviename": "The Message", "datereleased": 1976, "genere": "History"}
+{"moviename": "The Message", "datereleased": 1976, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Sholay", "datereleased": 1975, "genere": "Adventure"}
+{"moviename": "Sholay", "datereleased": 1975, "genere": "Comedy"}
 {"index": {}}
 {"moviename": "Monty Python and the Holy Grail", "datereleased": 1975, "genere": "Adventure", "rating": 91}
 {"index": {}}
-{"moviename": "The Great Escape", "datereleased": 1963, "genere": "Adventure", "rating": 86}
+{"moviename": "The Great Escape", "datereleased": 1963, "genere": "Drama", "rating": 86}
 {"index": {}}
 {"moviename": "To Kill a Mockingbird", "datereleased": 1962, "genere": "Crime", "rating": 88}
 {"index": {}}
@@ -365,13 +365,13 @@
 {"index": {}}
 {"moviename": "Judgment at Nuremberg", "datereleased": 1961, "genere": "War", "rating": 60}
 {"index": {}}
-{"moviename": "Some Like It Hot", "datereleased": 1959, "genere": "Comedy", "rating": 98}
+{"moviename": "Some Like It Hot", "datereleased": 1959, "genere": "Music", "rating": 98}
 {"index": {}}
-{"moviename": "Smultronst\u00e4llet", "datereleased": 1957, "genere": "Romance", "rating": 88}
+{"moviename": "Smultronst\u00e4llet", "datereleased": 1957, "genere": "Drama", "rating": 88}
 {"index": {}}
-{"moviename": "Det sjunde inseglet", "datereleased": 1957, "genere": "Drama", "rating": 88}
+{"moviename": "Det sjunde inseglet", "datereleased": 1957, "genere": "History", "rating": 88}
 {"index": {}}
-{"moviename": "Du rififi chez les hommes", "datereleased": 1955, "genere": "Drama", "rating": 97}
+{"moviename": "Du rififi chez les hommes", "datereleased": 1955, "genere": "Thriller", "rating": 97}
 {"index": {}}
 {"moviename": "Dial M for Murder", "datereleased": 1954, "genere": "Crime", "rating": 75}
 {"index": {}}
@@ -381,71 +381,71 @@
 {"index": {}}
 {"moviename": "All About Eve", "datereleased": 1950, "genere": "Drama", "rating": 98}
 {"index": {}}
-{"moviename": "The Treasure of the Sierra Madre", "datereleased": 1948, "genere": "Western", "rating": 98}
+{"moviename": "The Treasure of the Sierra Madre", "datereleased": 1948, "genere": "Drama", "rating": 98}
 {"index": {}}
-{"moviename": "To Be or Not to Be", "datereleased": 1942, "genere": "War", "rating": 86}
+{"moviename": "To Be or Not to Be", "datereleased": 1942, "genere": "Comedy", "rating": 86}
 {"index": {}}
-{"moviename": "The Gold Rush", "datereleased": 1925, "genere": "Drama"}
+{"moviename": "The Gold Rush", "datereleased": 1925, "genere": "Adventure"}
 {"index": {}}
-{"moviename": "Sherlock Jr.", "datereleased": 1924, "genere": "Action"}
+{"moviename": "Sherlock Jr.", "datereleased": 1924, "genere": "Romance"}
 {"index": {}}
-{"moviename": "Portrait de la jeune fille en feu", "datereleased": 2019, "genere": "Drama", "rating": 95}
+{"moviename": "Portrait de la jeune fille en feu", "datereleased": 2019, "genere": "Romance", "rating": 95}
 {"index": {}}
 {"moviename": "Pink", "datereleased": 2016, "genere": "Thriller"}
 {"index": {}}
-{"moviename": "Koe no katachi", "datereleased": 2016, "genere": "Drama", "rating": 78}
+{"moviename": "Koe no katachi", "datereleased": 2016, "genere": "Animation", "rating": 78}
 {"index": {}}
-{"moviename": "Contratiempo", "datereleased": 2016, "genere": "Drama"}
+{"moviename": "Contratiempo", "datereleased": 2016, "genere": "Mystery"}
 {"index": {}}
-{"moviename": "Ah-ga-ssi", "datereleased": 2016, "genere": "Drama", "rating": 84}
+{"moviename": "Ah-ga-ssi", "datereleased": 2016, "genere": "Romance", "rating": 84}
 {"index": {}}
 {"moviename": "Mommy", "datereleased": 2014, "genere": "Drama", "rating": 74}
 {"index": {}}
-{"moviename": "Haider", "datereleased": 2014, "genere": "Crime"}
+{"moviename": "Haider", "datereleased": 2014, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Logan", "datereleased": 2017, "genere": "Action", "rating": 77}
+{"moviename": "Logan", "datereleased": 2017, "genere": "Sci-Fi", "rating": 77}
 {"index": {}}
 {"moviename": "Room", "datereleased": 2015, "genere": "Drama", "rating": 86}
 {"index": {}}
-{"moviename": "Relatos salvajes", "datereleased": 2014, "genere": "Comedy", "rating": 77}
+{"moviename": "Relatos salvajes", "datereleased": 2014, "genere": "Drama", "rating": 77}
 {"index": {}}
-{"moviename": "Soul", "datereleased": 2020, "genere": "Adventure", "rating": 83}
+{"moviename": "Soul", "datereleased": 2020, "genere": "Comedy", "rating": 83}
 {"index": {}}
 {"moviename": "Kis Uykusu", "datereleased": 2014, "genere": "Drama", "rating": 88}
 {"index": {}}
-{"moviename": "PK", "datereleased": 2014, "genere": "Drama"}
+{"moviename": "PK", "datereleased": 2014, "genere": "Musical"}
 {"index": {}}
-{"moviename": "OMG: Oh My God!", "datereleased": 2012, "genere": "Comedy"}
+{"moviename": "OMG: Oh My God!", "datereleased": 2012, "genere": "Fantasy"}
 {"index": {}}
-{"moviename": "The Grand Budapest Hotel", "datereleased": 2014, "genere": "Crime", "rating": 88}
+{"moviename": "The Grand Budapest Hotel", "datereleased": 2014, "genere": "Comedy", "rating": 88}
 {"index": {}}
-{"moviename": "Gone Girl", "datereleased": 2014, "genere": "Thriller", "rating": 79}
+{"moviename": "Gone Girl", "datereleased": 2014, "genere": "Mystery", "rating": 79}
 {"index": {}}
 {"moviename": "\u00d4kami kodomo no Ame to Yuki", "datereleased": 2012, "genere": "Drama", "rating": 71}
 {"index": {}}
-{"moviename": "Hacksaw Ridge", "datereleased": 2016, "genere": "History", "rating": 71}
+{"moviename": "Hacksaw Ridge", "datereleased": 2016, "genere": "Biography", "rating": 71}
 {"index": {}}
 {"moviename": "Inside Out", "datereleased": 2015, "genere": "Animation", "rating": 94}
 {"index": {}}
 {"moviename": "Barfi!", "datereleased": 2012, "genere": "Drama"}
 {"index": {}}
-{"moviename": "12 Years a Slave", "datereleased": 2013, "genere": "Biography", "rating": 96}
+{"moviename": "12 Years a Slave", "datereleased": 2013, "genere": "Drama", "rating": 96}
 {"index": {}}
-{"moviename": "Rush", "datereleased": 2013, "genere": "Drama", "rating": 74}
+{"moviename": "Rush", "datereleased": 2013, "genere": "Action", "rating": 74}
 {"index": {}}
-{"moviename": "Ford v Ferrari", "datereleased": 2019, "genere": "Drama", "rating": 81}
+{"moviename": "Ford v Ferrari", "datereleased": 2019, "genere": "Biography", "rating": 81}
 {"index": {}}
-{"moviename": "Spotlight", "datereleased": 2015, "genere": "Biography", "rating": 93}
+{"moviename": "Spotlight", "datereleased": 2015, "genere": "Crime", "rating": 93}
 {"index": {}}
 {"moviename": "Song of the Sea", "datereleased": 2014, "genere": "Animation", "rating": 85}
 {"index": {}}
 {"moviename": "Kahaani", "datereleased": 2012, "genere": "Mystery"}
 {"index": {}}
-{"moviename": "Zindagi Na Milegi Dobara", "datereleased": 2011, "genere": "Comedy"}
+{"moviename": "Zindagi Na Milegi Dobara", "datereleased": 2011, "genere": "Drama"}
 {"index": {}}
 {"moviename": "Prisoners", "datereleased": 2013, "genere": "Mystery", "rating": 70}
 {"index": {}}
-{"moviename": "Mad Max: Fury Road", "datereleased": 2015, "genere": "Adventure", "rating": 90}
+{"moviename": "Mad Max: Fury Road", "datereleased": 2015, "genere": "Sci-Fi", "rating": 90}
 {"index": {}}
 {"moviename": "A Wednesday", "datereleased": 2008, "genere": "Drama"}
 {"index": {}}
@@ -455,21 +455,21 @@
 {"index": {}}
 {"moviename": "Okuribito", "datereleased": 2008, "genere": "Drama", "rating": 68}
 {"index": {}}
-{"moviename": "Hachi: A Dog's Tale", "datereleased": 2009, "genere": "Drama"}
+{"moviename": "Hachi: A Dog's Tale", "datereleased": 2009, "genere": "Biography"}
 {"index": {}}
 {"moviename": "Mary and Max", "datereleased": 2009, "genere": "Drama"}
 {"index": {}}
-{"moviename": "How to Train Your Dragon", "datereleased": 2010, "genere": "Action", "rating": 75}
+{"moviename": "How to Train Your Dragon", "datereleased": 2010, "genere": "Adventure", "rating": 75}
 {"index": {}}
-{"moviename": "Into the Wild", "datereleased": 2007, "genere": "Biography", "rating": 73}
+{"moviename": "Into the Wild", "datereleased": 2007, "genere": "Adventure", "rating": 73}
 {"index": {}}
 {"moviename": "No Country for Old Men", "datereleased": 2007, "genere": "Drama", "rating": 91}
 {"index": {}}
 {"moviename": "Lage Raho Munna Bhai", "datereleased": 2006, "genere": "Comedy"}
 {"index": {}}
-{"moviename": "Million Dollar Baby", "datereleased": 2004, "genere": "Drama", "rating": 86}
+{"moviename": "Million Dollar Baby", "datereleased": 2004, "genere": "Sport", "rating": 86}
 {"index": {}}
-{"moviename": "Hotel Rwanda", "datereleased": 2004, "genere": "Drama", "rating": 79}
+{"moviename": "Hotel Rwanda", "datereleased": 2004, "genere": "History", "rating": 79}
 {"index": {}}
 {"moviename": "Taegukgi hwinalrimyeo", "datereleased": 2004, "genere": "War", "rating": 64}
 {"index": {}}
@@ -477,129 +477,129 @@
 {"index": {}}
 {"moviename": "Munna Bhai M.B.B.S.", "datereleased": 2003, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Salinui chueok", "datereleased": 2003, "genere": "Crime", "rating": 82}
+{"moviename": "Salinui chueok", "datereleased": 2003, "genere": "Mystery", "rating": 82}
 {"index": {}}
 {"moviename": "Dil Chahta Hai", "datereleased": 2001, "genere": "Comedy"}
 {"index": {}}
 {"moviename": "Kill Bill: Vol. 1", "datereleased": 2003, "genere": "Drama", "rating": 69}
 {"index": {}}
-{"moviename": "Finding Nemo", "datereleased": 2003, "genere": "Adventure", "rating": 90}
+{"moviename": "Finding Nemo", "datereleased": 2003, "genere": "Comedy", "rating": 90}
 {"index": {}}
-{"moviename": "Catch Me If You Can", "datereleased": 2002, "genere": "Drama", "rating": 75}
+{"moviename": "Catch Me If You Can", "datereleased": 2002, "genere": "Biography", "rating": 75}
 {"index": {}}
 {"moviename": "Amores perros", "datereleased": 2000, "genere": "Thriller", "rating": 83}
 {"index": {}}
-{"moviename": "Monsters, Inc.", "datereleased": 2001, "genere": "Animation", "rating": 79}
+{"moviename": "Monsters, Inc.", "datereleased": 2001, "genere": "Comedy", "rating": 79}
 {"index": {}}
-{"moviename": "Shin seiki Evangelion Gekij\u00f4-ban: Air/Magokoro wo, kimi ni", "datereleased": 1997, "genere": "Animation"}
+{"moviename": "Shin seiki Evangelion Gekij\u00f4-ban: Air/Magokoro wo, kimi ni", "datereleased": 1997, "genere": "Action"}
 {"index": {}}
-{"moviename": "Lagaan: Once Upon a Time in India", "datereleased": 2001, "genere": "Drama", "rating": 84}
+{"moviename": "Lagaan: Once Upon a Time in India", "datereleased": 2001, "genere": "Musical", "rating": 84}
 {"index": {}}
-{"moviename": "The Sixth Sense", "datereleased": 1999, "genere": "Thriller", "rating": 64}
+{"moviename": "The Sixth Sense", "datereleased": 1999, "genere": "Mystery", "rating": 64}
 {"index": {}}
 {"moviename": "La leggenda del pianista sull'oceano", "datereleased": 1998, "genere": "Music", "rating": 58}
 {"index": {}}
-{"moviename": "The Truman Show", "datereleased": 1998, "genere": "Drama", "rating": 90}
+{"moviename": "The Truman Show", "datereleased": 1998, "genere": "Comedy", "rating": 90}
 {"index": {}}
-{"moviename": "Crna macka, beli macor", "datereleased": 1998, "genere": "Comedy", "rating": 73}
+{"moviename": "Crna macka, beli macor", "datereleased": 1998, "genere": "Crime", "rating": 73}
 {"index": {}}
 {"moviename": "The Big Lebowski", "datereleased": 1998, "genere": "Sport", "rating": 71}
 {"index": {}}
-{"moviename": "Fa yeung nin wah", "datereleased": 2000, "genere": "Drama", "rating": 85}
+{"moviename": "Fa yeung nin wah", "datereleased": 2000, "genere": "Romance", "rating": 85}
 {"index": {}}
 {"moviename": "Trainspotting", "datereleased": 1996, "genere": "Drama", "rating": 83}
 {"index": {}}
 {"moviename": "Fargo", "datereleased": 1996, "genere": "Thriller", "rating": 85}
 {"index": {}}
-{"moviename": "Underground", "datereleased": 1995, "genere": "Comedy"}
+{"moviename": "Underground", "datereleased": 1995, "genere": "War"}
 {"index": {}}
 {"moviename": "La haine", "datereleased": 1995, "genere": "Crime"}
 {"index": {}}
 {"moviename": "Dilwale Dulhania Le Jayenge", "datereleased": 1995, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Before Sunrise", "datereleased": 1995, "genere": "Drama", "rating": 77}
+{"moviename": "Before Sunrise", "datereleased": 1995, "genere": "Romance", "rating": 77}
 {"index": {}}
-{"moviename": "Trois couleurs: Rouge", "datereleased": 1994, "genere": "Drama", "rating": 100}
+{"moviename": "Trois couleurs: Rouge", "datereleased": 1994, "genere": "Mystery", "rating": 100}
 {"index": {}}
-{"moviename": "Chung Hing sam lam", "datereleased": 1994, "genere": "Comedy", "rating": 77}
+{"moviename": "Chung Hing sam lam", "datereleased": 1994, "genere": "Crime", "rating": 77}
 {"index": {}}
-{"moviename": "Jurassic Park", "datereleased": 1993, "genere": "Action", "rating": 68}
+{"moviename": "Jurassic Park", "datereleased": 1993, "genere": "Adventure", "rating": 68}
 {"index": {}}
-{"moviename": "In the Name of the Father", "datereleased": 1993, "genere": "Crime", "rating": 84}
+{"moviename": "In the Name of the Father", "datereleased": 1993, "genere": "Drama", "rating": 84}
 {"index": {}}
 {"moviename": "Ba wang bie ji", "datereleased": 1993, "genere": "Drama"}
 {"index": {}}
-{"moviename": "D\u00e0 h\u00f3ng denglong gaogao gu\u00e0", "datereleased": 1991, "genere": "Romance"}
+{"moviename": "D\u00e0 h\u00f3ng denglong gaogao gu\u00e0", "datereleased": 1991, "genere": "History"}
 {"index": {}}
-{"moviename": "Dead Poets Society", "datereleased": 1989, "genere": "Comedy", "rating": 79}
+{"moviename": "Dead Poets Society", "datereleased": 1989, "genere": "Drama", "rating": 79}
 {"index": {}}
 {"moviename": "Stand by Me", "datereleased": 1986, "genere": "Adventure", "rating": 75}
 {"index": {}}
-{"moviename": "Platoon", "datereleased": 1986, "genere": "Drama", "rating": 92}
+{"moviename": "Platoon", "datereleased": 1986, "genere": "War", "rating": 92}
 {"index": {}}
 {"moviename": "Paris, Texas", "datereleased": 1984, "genere": "Drama", "rating": 78}
 {"index": {}}
-{"moviename": "Kaze no tani no Naushika", "datereleased": 1984, "genere": "Adventure", "rating": 86}
+{"moviename": "Kaze no tani no Naushika", "datereleased": 1984, "genere": "Fantasy", "rating": 86}
 {"index": {}}
-{"moviename": "The Thing", "datereleased": 1982, "genere": "Horror", "rating": 57}
+{"moviename": "The Thing", "datereleased": 1982, "genere": "Sci-Fi", "rating": 57}
 {"index": {}}
 {"moviename": "Pink Floyd: The Wall", "datereleased": 1982, "genere": "Fantasy", "rating": 47}
 {"index": {}}
-{"moviename": "Fitzcarraldo", "datereleased": 1982, "genere": "Drama"}
+{"moviename": "Fitzcarraldo", "datereleased": 1982, "genere": "Adventure"}
 {"index": {}}
 {"moviename": "Fanny och Alexander", "datereleased": 1982, "genere": "Drama", "rating": 100}
 {"index": {}}
-{"moviename": "Blade Runner", "datereleased": 1982, "genere": "Action", "rating": 84}
+{"moviename": "Blade Runner", "datereleased": 1982, "genere": "Sci-Fi", "rating": 84}
 {"index": {}}
 {"moviename": "The Elephant Man", "datereleased": 1980, "genere": "Biography", "rating": 78}
 {"index": {}}
 {"moviename": "Life of Brian", "datereleased": 1979, "genere": "Comedy", "rating": 77}
 {"index": {}}
-{"moviename": "The Deer Hunter", "datereleased": 1978, "genere": "War", "rating": 86}
+{"moviename": "The Deer Hunter", "datereleased": 1978, "genere": "Drama", "rating": 86}
 {"index": {}}
-{"moviename": "Rocky", "datereleased": 1976, "genere": "Sport", "rating": 70}
+{"moviename": "Rocky", "datereleased": 1976, "genere": "Drama", "rating": 70}
 {"index": {}}
 {"moviename": "Network", "datereleased": 1976, "genere": "Drama", "rating": 83}
 {"index": {}}
-{"moviename": "Barry Lyndon", "datereleased": 1975, "genere": "Drama", "rating": 89}
+{"moviename": "Barry Lyndon", "datereleased": 1975, "genere": "History", "rating": 89}
 {"index": {}}
 {"moviename": "Zerkalo", "datereleased": 1975, "genere": "Biography"}
 {"index": {}}
 {"moviename": "Chinatown", "datereleased": 1974, "genere": "Mystery", "rating": 92}
 {"index": {}}
-{"moviename": "Paper Moon", "datereleased": 1973, "genere": "Comedy", "rating": 77}
+{"moviename": "Paper Moon", "datereleased": 1973, "genere": "Drama", "rating": 77}
 {"index": {}}
 {"moviename": "Viskningar och rop", "datereleased": 1972, "genere": "Drama"}
 {"index": {}}
 {"moviename": "Solaris", "datereleased": 1972, "genere": "Mystery", "rating": 90}
 {"index": {}}
-{"moviename": "Le samoura\u00ef", "datereleased": 1967, "genere": "Crime"}
+{"moviename": "Le samoura\u00ef", "datereleased": 1967, "genere": "Mystery"}
 {"index": {}}
 {"moviename": "Cool Hand Luke", "datereleased": 1967, "genere": "Crime", "rating": 92}
 {"index": {}}
-{"moviename": "Persona", "datereleased": 1966, "genere": "Drama", "rating": 86}
+{"moviename": "Persona", "datereleased": 1966, "genere": "Thriller", "rating": 86}
 {"index": {}}
-{"moviename": "Andrei Rublev", "datereleased": 1966, "genere": "Drama"}
+{"moviename": "Andrei Rublev", "datereleased": 1966, "genere": "Biography"}
 {"index": {}}
 {"moviename": "La battaglia di Algeri", "datereleased": 1966, "genere": "War", "rating": 96}
 {"index": {}}
-{"moviename": "El \u00e1ngel exterminador", "datereleased": 1962, "genere": "Drama"}
+{"moviename": "El \u00e1ngel exterminador", "datereleased": 1962, "genere": "Fantasy"}
 {"index": {}}
 {"moviename": "What Ever Happened to Baby Jane?", "datereleased": 1962, "genere": "Drama", "rating": 75}
 {"index": {}}
-{"moviename": "Sanjuro", "datereleased": 1962, "genere": "Crime"}
+{"moviename": "Sanjuro", "datereleased": 1962, "genere": "Action"}
 {"index": {}}
-{"moviename": "The Man Who Shot Liberty Valance", "datereleased": 1962, "genere": "Western", "rating": 94}
+{"moviename": "The Man Who Shot Liberty Valance", "datereleased": 1962, "genere": "Drama", "rating": 94}
 {"index": {}}
-{"moviename": "Ivanovo detstvo", "datereleased": 1962, "genere": "Drama"}
+{"moviename": "Ivanovo detstvo", "datereleased": 1962, "genere": "War"}
 {"index": {}}
 {"moviename": "Jungfruk\u00e4llan", "datereleased": 1960, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Inherit the Wind", "datereleased": 1960, "genere": "Drama", "rating": 75}
+{"moviename": "Inherit the Wind", "datereleased": 1960, "genere": "History", "rating": 75}
 {"index": {}}
 {"moviename": "Les quatre cents coups", "datereleased": 1959, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Ben-Hur", "datereleased": 1959, "genere": "History", "rating": 90}
+{"moviename": "Ben-Hur", "datereleased": 1959, "genere": "Adventure", "rating": 90}
 {"index": {}}
 {"moviename": "Kakushi-toride no san-akunin", "datereleased": 1958, "genere": "Adventure"}
 {"index": {}}
@@ -607,7 +607,7 @@
 {"index": {}}
 {"moviename": "Kumonosu-j\u00f4", "datereleased": 1957, "genere": "History"}
 {"index": {}}
-{"moviename": "The Bridge on the River Kwai", "datereleased": 1957, "genere": "Drama", "rating": 87}
+{"moviename": "The Bridge on the River Kwai", "datereleased": 1957, "genere": "War", "rating": 87}
 {"index": {}}
 {"moviename": "On the Waterfront", "datereleased": 1954, "genere": "Thriller", "rating": 91}
 {"index": {}}
@@ -615,35 +615,35 @@
 {"index": {}}
 {"moviename": "Ace in the Hole", "datereleased": 1951, "genere": "Drama", "rating": 72}
 {"index": {}}
-{"moviename": "White Heat", "datereleased": 1949, "genere": "Crime"}
+{"moviename": "White Heat", "datereleased": 1949, "genere": "Action"}
 {"index": {}}
-{"moviename": "The Third Man", "datereleased": 1949, "genere": "Film-Noir", "rating": 97}
+{"moviename": "The Third Man", "datereleased": 1949, "genere": "Thriller", "rating": 97}
 {"index": {}}
 {"moviename": "The Red Shoes", "datereleased": 1948, "genere": "Music"}
 {"index": {}}
-{"moviename": "The Shop Around the Corner", "datereleased": 1940, "genere": "Romance", "rating": 96}
+{"moviename": "The Shop Around the Corner", "datereleased": 1940, "genere": "Drama", "rating": 96}
 {"index": {}}
 {"moviename": "Rebecca", "datereleased": 1940, "genere": "Romance", "rating": 86}
 {"index": {}}
 {"moviename": "Mr. Smith Goes to Washington", "datereleased": 1939, "genere": "Comedy", "rating": 73}
 {"index": {}}
-{"moviename": "Gone with the Wind", "datereleased": 1939, "genere": "History", "rating": 97}
+{"moviename": "Gone with the Wind", "datereleased": 1939, "genere": "Drama", "rating": 97}
 {"index": {}}
-{"moviename": "La Grande Illusion", "datereleased": 1937, "genere": "War"}
+{"moviename": "La Grande Illusion", "datereleased": 1937, "genere": "Drama"}
 {"index": {}}
 {"moviename": "It Happened One Night", "datereleased": 1934, "genere": "Comedy", "rating": 87}
 {"index": {}}
 {"moviename": "La passion de Jeanne d'Arc", "datereleased": 1928, "genere": "Drama"}
 {"index": {}}
-{"moviename": "The Circus", "datereleased": 1928, "genere": "Romance", "rating": 90}
+{"moviename": "The Circus", "datereleased": 1928, "genere": "Comedy", "rating": 90}
 {"index": {}}
-{"moviename": "Sunrise: A Song of Two Humans", "datereleased": 1927, "genere": "Drama"}
+{"moviename": "Sunrise: A Song of Two Humans", "datereleased": 1927, "genere": "Romance"}
 {"index": {}}
-{"moviename": "The General", "datereleased": 1926, "genere": "Adventure"}
+{"moviename": "The General", "datereleased": 1926, "genere": "Comedy"}
 {"index": {}}
-{"moviename": "Das Cabinet des Dr. Caligari", "datereleased": 1920, "genere": "Horror"}
+{"moviename": "Das Cabinet des Dr. Caligari", "datereleased": 1920, "genere": "Fantasy"}
 {"index": {}}
-{"moviename": "Badhaai ho", "datereleased": 2018, "genere": "Comedy"}
+{"moviename": "Badhaai ho", "datereleased": 2018, "genere": "Drama"}
 {"index": {}}
 {"moviename": "Togo", "datereleased": 2019, "genere": "Drama", "rating": 69}
 {"index": {}}
@@ -651,21 +651,21 @@
 {"index": {}}
 {"moviename": "Bajrangi Bhaijaan", "datereleased": 2015, "genere": "Comedy"}
 {"index": {}}
-{"moviename": "Baby", "datereleased": 2015, "genere": "Thriller"}
+{"moviename": "Baby", "datereleased": 2015, "genere": "Crime"}
 {"index": {}}
 {"moviename": "La La Land", "datereleased": 2016, "genere": "Drama", "rating": 94}
 {"index": {}}
-{"moviename": "Lion", "datereleased": 2016, "genere": "Drama", "rating": 69}
+{"moviename": "Lion", "datereleased": 2016, "genere": "Biography", "rating": 69}
 {"index": {}}
-{"moviename": "The Martian", "datereleased": 2015, "genere": "Drama", "rating": 80}
+{"moviename": "The Martian", "datereleased": 2015, "genere": "Sci-Fi", "rating": 80}
 {"index": {}}
-{"moviename": "Zootopia", "datereleased": 2016, "genere": "Comedy", "rating": 78}
+{"moviename": "Zootopia", "datereleased": 2016, "genere": "Adventure", "rating": 78}
 {"index": {}}
 {"moviename": "B\u00e3hubali: The Beginning", "datereleased": 2015, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Kaguyahime no monogatari", "datereleased": 2013, "genere": "Adventure", "rating": 89}
+{"moviename": "Kaguyahime no monogatari", "datereleased": 2013, "genere": "Drama", "rating": 89}
 {"index": {}}
-{"moviename": "Wonder", "datereleased": 2017, "genere": "Drama", "rating": 66}
+{"moviename": "Wonder", "datereleased": 2017, "genere": "Family", "rating": 66}
 {"index": {}}
 {"moviename": "Gully Boy", "datereleased": 2019, "genere": "Music", "rating": 65}
 {"index": {}}
@@ -673,23 +673,23 @@
 {"index": {}}
 {"moviename": "Short Term 12", "datereleased": 2013, "genere": "Drama", "rating": 82}
 {"index": {}}
-{"moviename": "Serbuan maut 2: Berandal", "datereleased": 2014, "genere": "Crime", "rating": 71}
+{"moviename": "Serbuan maut 2: Berandal", "datereleased": 2014, "genere": "Action", "rating": 71}
 {"index": {}}
 {"moviename": "The Imitation Game", "datereleased": 2014, "genere": "Biography", "rating": 73}
 {"index": {}}
-{"moviename": "Guardians of the Galaxy", "datereleased": 2014, "genere": "Action", "rating": 76}
+{"moviename": "Guardians of the Galaxy", "datereleased": 2014, "genere": "Comedy", "rating": 76}
 {"index": {}}
-{"moviename": "Blade Runner 2049", "datereleased": 2017, "genere": "Drama", "rating": 81}
+{"moviename": "Blade Runner 2049", "datereleased": 2017, "genere": "Action", "rating": 81}
 {"index": {}}
-{"moviename": "Her", "datereleased": 2013, "genere": "Drama", "rating": 90}
+{"moviename": "Her", "datereleased": 2013, "genere": "Sci-Fi", "rating": 90}
 {"index": {}}
-{"moviename": "Bohemian Rhapsody", "datereleased": 2018, "genere": "Biography", "rating": 49}
+{"moviename": "Bohemian Rhapsody", "datereleased": 2018, "genere": "Drama", "rating": 49}
 {"index": {}}
-{"moviename": "The Revenant", "datereleased": 2015, "genere": "Adventure", "rating": 76}
+{"moviename": "The Revenant", "datereleased": 2015, "genere": "Drama", "rating": 76}
 {"index": {}}
-{"moviename": "The Perks of Being a Wallflower", "datereleased": 2012, "genere": "Romance", "rating": 67}
+{"moviename": "The Perks of Being a Wallflower", "datereleased": 2012, "genere": "Drama", "rating": 67}
 {"index": {}}
-{"moviename": "Tropa de Elite 2: O Inimigo Agora \u00e9 Outro", "datereleased": 2010, "genere": "Crime", "rating": 71}
+{"moviename": "Tropa de Elite 2: O Inimigo Agora \u00e9 Outro", "datereleased": 2010, "genere": "Action", "rating": 71}
 {"index": {}}
 {"moviename": "The King's Speech", "datereleased": 2010, "genere": "Drama", "rating": 88}
 {"index": {}}
@@ -701,7 +701,7 @@
 {"index": {}}
 {"moviename": "Dev.D", "datereleased": 2009, "genere": "Romance"}
 {"index": {}}
-{"moviename": "Yip Man", "datereleased": 2008, "genere": "Drama", "rating": 59}
+{"moviename": "Yip Man", "datereleased": 2008, "genere": "Action", "rating": 59}
 {"index": {}}
 {"moviename": "My Name Is Khan", "datereleased": 2010, "genere": "Drama", "rating": 50}
 {"index": {}}
@@ -711,19 +711,19 @@
 {"index": {}}
 {"moviename": "Black Swan", "datereleased": 2010, "genere": "Thriller", "rating": 79}
 {"index": {}}
-{"moviename": "Tropa de Elite", "datereleased": 2007, "genere": "Action", "rating": 33}
+{"moviename": "Tropa de Elite", "datereleased": 2007, "genere": "Crime", "rating": 33}
 {"index": {}}
 {"moviename": "The Avengers", "datereleased": 2012, "genere": "Adventure", "rating": 69}
 {"index": {}}
-{"moviename": "Persepolis", "datereleased": 2007, "genere": "Biography", "rating": 90}
+{"moviename": "Persepolis", "datereleased": 2007, "genere": "Drama", "rating": 90}
 {"index": {}}
-{"moviename": "Dallas Buyers Club", "datereleased": 2013, "genere": "Biography", "rating": 80}
+{"moviename": "Dallas Buyers Club", "datereleased": 2013, "genere": "Drama", "rating": 80}
 {"index": {}}
 {"moviename": "The Pursuit of Happyness", "datereleased": 2006, "genere": "Biography", "rating": 64}
 {"index": {}}
-{"moviename": "Blood Diamond", "datereleased": 2006, "genere": "Thriller", "rating": 64}
+{"moviename": "Blood Diamond", "datereleased": 2006, "genere": "Drama", "rating": 64}
 {"index": {}}
-{"moviename": "The Bourne Ultimatum", "datereleased": 2007, "genere": "Thriller", "rating": 85}
+{"moviename": "The Bourne Ultimatum", "datereleased": 2007, "genere": "Mystery", "rating": 85}
 {"index": {}}
 {"moviename": "Bin-jip", "datereleased": 2004, "genere": "Drama", "rating": 72}
 {"index": {}}
@@ -733,41 +733,41 @@
 {"index": {}}
 {"moviename": "G.O.R.A.", "datereleased": 2004, "genere": "Comedy"}
 {"index": {}}
-{"moviename": "Ratatouille", "datereleased": 2007, "genere": "Comedy", "rating": 96}
+{"moviename": "Ratatouille", "datereleased": 2007, "genere": "Adventure", "rating": 96}
 {"index": {}}
-{"moviename": "Casino Royale", "datereleased": 2006, "genere": "Action", "rating": 80}
+{"moviename": "Casino Royale", "datereleased": 2006, "genere": "Thriller", "rating": 80}
 {"index": {}}
 {"moviename": "Kill Bill: Vol. 2", "datereleased": 2004, "genere": "Thriller", "rating": 83}
 {"index": {}}
 {"moviename": "Vozvrashchenie", "datereleased": 2003, "genere": "Drama", "rating": 82}
 {"index": {}}
-{"moviename": "Bom Yeoareum Gaeul Gyeoul Geurigo Bom", "datereleased": 2003, "genere": "Drama", "rating": 85}
+{"moviename": "Bom Yeoareum Gaeul Gyeoul Geurigo Bom", "datereleased": 2003, "genere": "Romance", "rating": 85}
 {"index": {}}
-{"moviename": "Mar adentro", "datereleased": 2014, "genere": "Drama", "rating": 74}
+{"moviename": "Mar adentro", "datereleased": 2014, "genere": "Biography", "rating": 74}
 {"index": {}}
-{"moviename": "Cinderella Man", "datereleased": 2005, "genere": "Biography", "rating": 69}
+{"moviename": "Cinderella Man", "datereleased": 2005, "genere": "Drama", "rating": 69}
 {"index": {}}
 {"moviename": "Kal Ho Naa Ho", "datereleased": 2003, "genere": "Musical", "rating": 54}
 {"index": {}}
 {"moviename": "Mou gaan dou", "datereleased": 2002, "genere": "Action", "rating": 75}
 {"index": {}}
-{"moviename": "Pirates of the Caribbean: The Curse of the Black Pearl", "datereleased": 2003, "genere": "Action", "rating": 63}
+{"moviename": "Pirates of the Caribbean: The Curse of the Black Pearl", "datereleased": 2003, "genere": "Adventure", "rating": 63}
 {"index": {}}
 {"moviename": "Big Fish", "datereleased": 2003, "genere": "Drama", "rating": 58}
 {"index": {}}
-{"moviename": "The Incredibles", "datereleased": 2004, "genere": "Animation", "rating": 90}
+{"moviename": "The Incredibles", "datereleased": 2004, "genere": "Adventure", "rating": 90}
 {"index": {}}
-{"moviename": "Yeopgijeogin geunyeo", "datereleased": 2001, "genere": "Drama"}
+{"moviename": "Yeopgijeogin geunyeo", "datereleased": 2001, "genere": "Romance"}
 {"index": {}}
 {"moviename": "Dogville", "datereleased": 2003, "genere": "Drama", "rating": 60}
 {"index": {}}
-{"moviename": "Vizontele", "datereleased": 2001, "genere": "Comedy"}
+{"moviename": "Vizontele", "datereleased": 2001, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Donnie Darko", "datereleased": 2001, "genere": "Mystery", "rating": 88}
+{"moviename": "Donnie Darko", "datereleased": 2001, "genere": "Sci-Fi", "rating": 88}
 {"index": {}}
 {"moviename": "Magnolia", "datereleased": 1999, "genere": "Drama", "rating": 77}
 {"index": {}}
-{"moviename": "Dancer in the Dark", "datereleased": 2000, "genere": "Crime", "rating": 61}
+{"moviename": "Dancer in the Dark", "datereleased": 2000, "genere": "Musical", "rating": 61}
 {"index": {}}
 {"moviename": "The Straight Story", "datereleased": 1999, "genere": "Biography", "rating": 86}
 {"index": {}}
@@ -777,27 +777,27 @@
 {"index": {}}
 {"moviename": "Central do Brasil", "datereleased": 1998, "genere": "Drama", "rating": 80}
 {"index": {}}
-{"moviename": "The Iron Giant", "datereleased": 1999, "genere": "Adventure", "rating": 85}
+{"moviename": "The Iron Giant", "datereleased": 1999, "genere": "Animation", "rating": 85}
 {"index": {}}
-{"moviename": "Knockin' on Heaven's Door", "datereleased": 1997, "genere": "Crime"}
+{"moviename": "Knockin' on Heaven's Door", "datereleased": 1997, "genere": "Comedy"}
 {"index": {}}
 {"moviename": "Sling Blade", "datereleased": 1996, "genere": "Drama", "rating": 84}
 {"index": {}}
-{"moviename": "Secrets & Lies", "datereleased": 1996, "genere": "Comedy", "rating": 91}
+{"moviename": "Secrets & Lies", "datereleased": 1996, "genere": "Drama", "rating": 91}
 {"index": {}}
-{"moviename": "Twelve Monkeys", "datereleased": 1995, "genere": "Sci-Fi", "rating": 74}
+{"moviename": "Twelve Monkeys", "datereleased": 1995, "genere": "Mystery", "rating": 74}
 {"index": {}}
-{"moviename": "K\u00f4kaku Kid\u00f4tai", "datereleased": 1995, "genere": "Animation", "rating": 76}
+{"moviename": "K\u00f4kaku Kid\u00f4tai", "datereleased": 1995, "genere": "Action", "rating": 76}
 {"index": {}}
-{"moviename": "The Nightmare Before Christmas", "datereleased": 1993, "genere": "Family", "rating": 82}
+{"moviename": "The Nightmare Before Christmas", "datereleased": 1993, "genere": "Animation", "rating": 82}
 {"index": {}}
 {"moviename": "Groundhog Day", "datereleased": 1993, "genere": "Fantasy", "rating": 72}
 {"index": {}}
-{"moviename": "Bound by Honor", "datereleased": 1993, "genere": "Crime", "rating": 47}
+{"moviename": "Bound by Honor", "datereleased": 1993, "genere": "Drama", "rating": 47}
 {"index": {}}
 {"moviename": "Scent of a Woman", "datereleased": 1992, "genere": "Drama", "rating": 59}
 {"index": {}}
-{"moviename": "Aladdin", "datereleased": 1992, "genere": "Adventure", "rating": 86}
+{"moviename": "Aladdin", "datereleased": 1992, "genere": "Animation", "rating": 86}
 {"index": {}}
 {"moviename": "JFK", "datereleased": 1991, "genere": "Thriller", "rating": 72}
 {"index": {}}
@@ -805,31 +805,31 @@
 {"index": {}}
 {"moviename": "Dances with Wolves", "datereleased": 1990, "genere": "Adventure", "rating": 72}
 {"index": {}}
-{"moviename": "Do the Right Thing", "datereleased": 1989, "genere": "Comedy", "rating": 93}
+{"moviename": "Do the Right Thing", "datereleased": 1989, "genere": "Drama", "rating": 93}
 {"index": {}}
 {"moviename": "Rain Man", "datereleased": 1988, "genere": "Drama"}
 {"index": {}}
 {"moviename": "Akira", "datereleased": 1988, "genere": "Animation"}
 {"index": {}}
-{"moviename": "The Princess Bride", "datereleased": 1987, "genere": "Adventure", "rating": 77}
+{"moviename": "The Princess Bride", "datereleased": 1987, "genere": "Fantasy", "rating": 77}
 {"index": {}}
-{"moviename": "Der Himmel \u00fcber Berlin", "datereleased": 1987, "genere": "Romance", "rating": 79}
+{"moviename": "Der Himmel \u00fcber Berlin", "datereleased": 1987, "genere": "Fantasy", "rating": 79}
 {"index": {}}
-{"moviename": "Au revoir les enfants", "datereleased": 1987, "genere": "War", "rating": 88}
+{"moviename": "Au revoir les enfants", "datereleased": 1987, "genere": "Drama", "rating": 88}
 {"index": {}}
-{"moviename": "Tenk\u00fb no shiro Rapyuta", "datereleased": 1986, "genere": "Drama", "rating": 78}
+{"moviename": "Tenk\u00fb no shiro Rapyuta", "datereleased": 1986, "genere": "Adventure", "rating": 78}
 {"index": {}}
-{"moviename": "The Terminator", "datereleased": 1984, "genere": "Action", "rating": 84}
+{"moviename": "The Terminator", "datereleased": 1984, "genere": "Sci-Fi", "rating": 84}
 {"index": {}}
-{"moviename": "Gandhi", "datereleased": 1982, "genere": "Biography", "rating": 79}
+{"moviename": "Gandhi", "datereleased": 1982, "genere": "Drama", "rating": 79}
 {"index": {}}
-{"moviename": "Kagemusha", "datereleased": 1980, "genere": "War", "rating": 84}
+{"moviename": "Kagemusha", "datereleased": 1980, "genere": "Drama", "rating": 84}
 {"index": {}}
-{"moviename": "Being There", "datereleased": 1979, "genere": "Drama", "rating": 83}
+{"moviename": "Being There", "datereleased": 1979, "genere": "Comedy", "rating": 83}
 {"index": {}}
 {"moviename": "Annie Hall", "datereleased": 1977, "genere": "Romance", "rating": 92}
 {"index": {}}
-{"moviename": "Jaws", "datereleased": 1975, "genere": "Adventure", "rating": 87}
+{"moviename": "Jaws", "datereleased": 1975, "genere": "Thriller", "rating": 87}
 {"index": {}}
 {"moviename": "Dog Day Afternoon", "datereleased": 1975, "genere": "Drama", "rating": 86}
 {"index": {}}
@@ -843,21 +843,21 @@
 {"index": {}}
 {"moviename": "The Last Picture Show", "datereleased": 1971, "genere": "Drama", "rating": 93}
 {"index": {}}
-{"moviename": "Fiddler on the Roof", "datereleased": 1971, "genere": "Musical", "rating": 67}
+{"moviename": "Fiddler on the Roof", "datereleased": 1971, "genere": "Family", "rating": 67}
 {"index": {}}
 {"moviename": "Il conformista", "datereleased": 1970, "genere": "Drama", "rating": 100}
 {"index": {}}
 {"moviename": "Butch Cassidy and the Sundance Kid", "datereleased": 1969, "genere": "Biography", "rating": 66}
 {"index": {}}
-{"moviename": "Rosemary's Baby", "datereleased": 1968, "genere": "Horror", "rating": 96}
+{"moviename": "Rosemary's Baby", "datereleased": 1968, "genere": "Drama", "rating": 96}
 {"index": {}}
-{"moviename": "Planet of the Apes", "datereleased": 1968, "genere": "Sci-Fi", "rating": 79}
+{"moviename": "Planet of the Apes", "datereleased": 1968, "genere": "Adventure", "rating": 79}
 {"index": {}}
-{"moviename": "The Graduate", "datereleased": 1967, "genere": "Comedy", "rating": 83}
+{"moviename": "The Graduate", "datereleased": 1967, "genere": "Romance", "rating": 83}
 {"index": {}}
 {"moviename": "Who's Afraid of Virginia Woolf?", "datereleased": 1966, "genere": "Drama", "rating": 75}
 {"index": {}}
-{"moviename": "The Sound of Music", "datereleased": 1965, "genere": "Drama", "rating": 63}
+{"moviename": "The Sound of Music", "datereleased": 1965, "genere": "Biography", "rating": 63}
 {"index": {}}
 {"moviename": "Doctor Zhivago", "datereleased": 1965, "genere": "Drama", "rating": 69}
 {"index": {}}
@@ -871,17 +871,17 @@
 {"index": {}}
 {"moviename": "La dolce vita", "datereleased": 1960, "genere": "Comedy", "rating": 95}
 {"index": {}}
-{"moviename": "Rio Bravo", "datereleased": 1959, "genere": "Action", "rating": 93}
+{"moviename": "Rio Bravo", "datereleased": 1959, "genere": "Drama", "rating": 93}
 {"index": {}}
-{"moviename": "Anatomy of a Murder", "datereleased": 1959, "genere": "Mystery", "rating": 95}
+{"moviename": "Anatomy of a Murder", "datereleased": 1959, "genere": "Crime", "rating": 95}
 {"index": {}}
-{"moviename": "Touch of Evil", "datereleased": 1958, "genere": "Crime", "rating": 99}
+{"moviename": "Touch of Evil", "datereleased": 1958, "genere": "Drama", "rating": 99}
 {"index": {}}
 {"moviename": "Cat on a Hot Tin Roof", "datereleased": 1958, "genere": "Drama", "rating": 84}
 {"index": {}}
-{"moviename": "Sweet Smell of Success", "datereleased": 1957, "genere": "Drama", "rating": 100}
+{"moviename": "Sweet Smell of Success", "datereleased": 1957, "genere": "Film-Noir", "rating": 100}
 {"index": {}}
-{"moviename": "The Killing", "datereleased": 1956, "genere": "Film-Noir", "rating": 91}
+{"moviename": "The Killing", "datereleased": 1956, "genere": "Drama", "rating": 91}
 {"index": {}}
 {"moviename": "The Night of the Hunter", "datereleased": 1955, "genere": "Film-Noir", "rating": 99}
 {"index": {}}
@@ -889,13 +889,13 @@
 {"index": {}}
 {"moviename": "Les diaboliques", "datereleased": 1955, "genere": "Crime"}
 {"index": {}}
-{"moviename": "Stalag 17", "datereleased": 1953, "genere": "Comedy", "rating": 84}
+{"moviename": "Stalag 17", "datereleased": 1953, "genere": "Drama", "rating": 84}
 {"index": {}}
 {"moviename": "Roman Holiday", "datereleased": 1953, "genere": "Romance", "rating": 78}
 {"index": {}}
 {"moviename": "A Streetcar Named Desire", "datereleased": 1951, "genere": "Drama", "rating": 97}
 {"index": {}}
-{"moviename": "In a Lonely Place", "datereleased": 1950, "genere": "Drama"}
+{"moviename": "In a Lonely Place", "datereleased": 1950, "genere": "Film-Noir"}
 {"index": {}}
 {"moviename": "Kind Hearts and Coronets", "datereleased": 1949, "genere": "Comedy"}
 {"index": {}}
@@ -905,65 +905,65 @@
 {"index": {}}
 {"moviename": "Brief Encounter", "datereleased": 1945, "genere": "Romance", "rating": 92}
 {"index": {}}
-{"moviename": "Laura", "datereleased": 1944, "genere": "Drama"}
+{"moviename": "Laura", "datereleased": 1944, "genere": "Mystery"}
 {"index": {}}
-{"moviename": "The Best Years of Our Lives", "datereleased": 1946, "genere": "Drama", "rating": 93}
+{"moviename": "The Best Years of Our Lives", "datereleased": 1946, "genere": "Romance", "rating": 93}
 {"index": {}}
-{"moviename": "Arsenic and Old Lace", "datereleased": 1942, "genere": "Crime"}
+{"moviename": "Arsenic and Old Lace", "datereleased": 1942, "genere": "Comedy"}
 {"index": {}}
 {"moviename": "The Maltese Falcon", "datereleased": 1941, "genere": "Mystery", "rating": 96}
 {"index": {}}
 {"moviename": "The Grapes of Wrath", "datereleased": 1940, "genere": "History", "rating": 96}
 {"index": {}}
-{"moviename": "The Wizard of Oz", "datereleased": 1939, "genere": "Fantasy", "rating": 92}
+{"moviename": "The Wizard of Oz", "datereleased": 1939, "genere": "Family", "rating": 92}
 {"index": {}}
-{"moviename": "La r\u00e8gle du jeu", "datereleased": 1939, "genere": "Comedy"}
+{"moviename": "La r\u00e8gle du jeu", "datereleased": 1939, "genere": "Drama"}
 {"index": {}}
 {"moviename": "The Thin Man", "datereleased": 1934, "genere": "Comedy", "rating": 86}
 {"index": {}}
-{"moviename": "All Quiet on the Western Front", "datereleased": 1930, "genere": "War", "rating": 91}
+{"moviename": "All Quiet on the Western Front", "datereleased": 1930, "genere": "Drama", "rating": 91}
 {"index": {}}
 {"moviename": "Bronenosets Potemkin", "datereleased": 1925, "genere": "History", "rating": 97}
 {"index": {}}
-{"moviename": "Knives Out", "datereleased": 2019, "genere": "Crime", "rating": 82}
+{"moviename": "Knives Out", "datereleased": 2019, "genere": "Drama", "rating": 82}
 {"index": {}}
-{"moviename": "Dil Bechara", "datereleased": 2020, "genere": "Drama"}
+{"moviename": "Dil Bechara", "datereleased": 2020, "genere": "Comedy"}
 {"index": {}}
-{"moviename": "Manbiki kazoku", "datereleased": 2018, "genere": "Drama", "rating": 93}
+{"moviename": "Manbiki kazoku", "datereleased": 2018, "genere": "Crime", "rating": 93}
 {"index": {}}
 {"moviename": "Marriage Story", "datereleased": 2019, "genere": "Comedy", "rating": 94}
 {"index": {}}
-{"moviename": "Call Me by Your Name", "datereleased": 2017, "genere": "Drama", "rating": 93}
+{"moviename": "Call Me by Your Name", "datereleased": 2017, "genere": "Romance", "rating": 93}
 {"index": {}}
 {"moviename": "I, Daniel Blake", "datereleased": 2016, "genere": "Drama", "rating": 78}
 {"index": {}}
-{"moviename": "Isle of Dogs", "datereleased": 2018, "genere": "Adventure", "rating": 82}
+{"moviename": "Isle of Dogs", "datereleased": 2018, "genere": "Animation", "rating": 82}
 {"index": {}}
-{"moviename": "Hunt for the Wilderpeople", "datereleased": 2016, "genere": "Adventure", "rating": 81}
+{"moviename": "Hunt for the Wilderpeople", "datereleased": 2016, "genere": "Comedy", "rating": 81}
 {"index": {}}
-{"moviename": "Captain Fantastic", "datereleased": 2016, "genere": "Comedy", "rating": 72}
+{"moviename": "Captain Fantastic", "datereleased": 2016, "genere": "Drama", "rating": 72}
 {"index": {}}
 {"moviename": "Sing Street", "datereleased": 2016, "genere": "Music", "rating": 79}
 {"index": {}}
 {"moviename": "Thor: Ragnarok", "datereleased": 2017, "genere": "Adventure", "rating": 74}
 {"index": {}}
-{"moviename": "Nightcrawler", "datereleased": 2014, "genere": "Thriller", "rating": 76}
+{"moviename": "Nightcrawler", "datereleased": 2014, "genere": "Drama", "rating": 76}
 {"index": {}}
-{"moviename": "Jojo Rabbit", "datereleased": 2019, "genere": "Comedy", "rating": 58}
+{"moviename": "Jojo Rabbit", "datereleased": 2019, "genere": "War", "rating": 58}
 {"index": {}}
 {"moviename": "Arrival", "datereleased": 2016, "genere": "Drama", "rating": 81}
 {"index": {}}
 {"moviename": "Star Wars: Episode VII - The Force Awakens", "datereleased": 2015, "genere": "Action", "rating": 80}
 {"index": {}}
-{"moviename": "Before Midnight", "datereleased": 2013, "genere": "Romance", "rating": 94}
+{"moviename": "Before Midnight", "datereleased": 2013, "genere": "Drama", "rating": 94}
 {"index": {}}
-{"moviename": "X-Men: Days of Future Past", "datereleased": 2014, "genere": "Sci-Fi", "rating": 75}
+{"moviename": "X-Men: Days of Future Past", "datereleased": 2014, "genere": "Action", "rating": 75}
 {"index": {}}
-{"moviename": "Bir Zamanlar Anadolu'da", "datereleased": 2011, "genere": "Drama", "rating": 82}
+{"moviename": "Bir Zamanlar Anadolu'da", "datereleased": 2011, "genere": "Crime", "rating": 82}
 {"index": {}}
-{"moviename": "The Artist", "datereleased": 2011, "genere": "Romance", "rating": 89}
+{"moviename": "The Artist", "datereleased": 2011, "genere": "Comedy", "rating": 89}
 {"index": {}}
-{"moviename": "Edge of Tomorrow", "datereleased": 2014, "genere": "Adventure", "rating": 71}
+{"moviename": "Edge of Tomorrow", "datereleased": 2014, "genere": "Action", "rating": 71}
 {"index": {}}
 {"moviename": "Amour", "datereleased": 2012, "genere": "Romance", "rating": 94}
 {"index": {}}
@@ -971,15 +971,15 @@
 {"index": {}}
 {"moviename": "Un proph\u00e8te", "datereleased": 2009, "genere": "Crime", "rating": 90}
 {"index": {}}
-{"moviename": "Moon", "datereleased": 2009, "genere": "Mystery", "rating": 67}
+{"moviename": "Moon", "datereleased": 2009, "genere": "Drama", "rating": 67}
 {"index": {}}
-{"moviename": "L\u00e5t den r\u00e4tte komma in", "datereleased": 2008, "genere": "Crime", "rating": 82}
+{"moviename": "L\u00e5t den r\u00e4tte komma in", "datereleased": 2008, "genere": "Drama", "rating": 82}
 {"index": {}}
 {"moviename": "District 9", "datereleased": 2009, "genere": "Action", "rating": 81}
 {"index": {}}
-{"moviename": "The Wrestler", "datereleased": 2008, "genere": "Sport", "rating": 80}
+{"moviename": "The Wrestler", "datereleased": 2008, "genere": "Drama", "rating": 80}
 {"index": {}}
-{"moviename": "Jab We Met", "datereleased": 2007, "genere": "Romance"}
+{"moviename": "Jab We Met", "datereleased": 2007, "genere": "Drama"}
 {"index": {}}
 {"moviename": "Boyhood", "datereleased": 2014, "genere": "Drama", "rating": 100}
 {"index": {}}
@@ -987,51 +987,51 @@
 {"index": {}}
 {"moviename": "Star Trek", "datereleased": 2009, "genere": "Adventure", "rating": 82}
 {"index": {}}
-{"moviename": "In Bruges", "datereleased": 2008, "genere": "Comedy", "rating": 67}
+{"moviename": "In Bruges", "datereleased": 2008, "genere": "Crime", "rating": 67}
 {"index": {}}
 {"moviename": "The Man from Earth", "datereleased": 2007, "genere": "Fantasy"}
 {"index": {}}
-{"moviename": "Letters from Iwo Jima", "datereleased": 2006, "genere": "Drama", "rating": 89}
+{"moviename": "Letters from Iwo Jima", "datereleased": 2006, "genere": "Adventure", "rating": 89}
 {"index": {}}
 {"moviename": "The Fall", "datereleased": 2006, "genere": "Fantasy", "rating": 64}
 {"index": {}}
-{"moviename": "Life of Pi", "datereleased": 2012, "genere": "Adventure", "rating": 79}
+{"moviename": "Life of Pi", "datereleased": 2012, "genere": "Drama", "rating": 79}
 {"index": {}}
-{"moviename": "Fantastic Mr. Fox", "datereleased": 2009, "genere": "Adventure", "rating": 83}
+{"moviename": "Fantastic Mr. Fox", "datereleased": 2009, "genere": "Animation", "rating": 83}
 {"index": {}}
 {"moviename": "C.R.A.Z.Y.", "datereleased": 2005, "genere": "Drama", "rating": 81}
 {"index": {}}
-{"moviename": "Les choristes", "datereleased": 2004, "genere": "Music", "rating": 56}
+{"moviename": "Les choristes", "datereleased": 2004, "genere": "Drama", "rating": 56}
 {"index": {}}
 {"moviename": "Iron Man", "datereleased": 2008, "genere": "Adventure", "rating": 79}
 {"index": {}}
 {"moviename": "Shaun of the Dead", "datereleased": 2004, "genere": "Horror", "rating": 76}
 {"index": {}}
-{"moviename": "Gegen die Wand", "datereleased": 2004, "genere": "Romance", "rating": 78}
+{"moviename": "Gegen die Wand", "datereleased": 2004, "genere": "Drama", "rating": 78}
 {"index": {}}
-{"moviename": "Mystic River", "datereleased": 2003, "genere": "Crime", "rating": 84}
+{"moviename": "Mystic River", "datereleased": 2003, "genere": "Drama", "rating": 84}
 {"index": {}}
 {"moviename": "Harry Potter and the Prisoner of Azkaban", "datereleased": 2004, "genere": "Family", "rating": 82}
 {"index": {}}
 {"moviename": "Ying xiong", "datereleased": 2002, "genere": "History", "rating": 85}
 {"index": {}}
-{"moviename": "Hable con ella", "datereleased": 2002, "genere": "Drama", "rating": 86}
+{"moviename": "Hable con ella", "datereleased": 2002, "genere": "Romance", "rating": 86}
 {"index": {}}
-{"moviename": "No Man's Land", "datereleased": 2001, "genere": "Drama", "rating": 84}
+{"moviename": "No Man's Land", "datereleased": 2001, "genere": "Comedy", "rating": 84}
 {"index": {}}
 {"moviename": "Cowboy Bebop: Tengoku no tobira", "datereleased": 2001, "genere": "Crime", "rating": 61}
 {"index": {}}
-{"moviename": "The Bourne Identity", "datereleased": 2002, "genere": "Mystery", "rating": 68}
+{"moviename": "The Bourne Identity", "datereleased": 2002, "genere": "Action", "rating": 68}
 {"index": {}}
-{"moviename": "Nueve reinas", "datereleased": 2000, "genere": "Crime", "rating": 80}
+{"moviename": "Nueve reinas", "datereleased": 2000, "genere": "Drama", "rating": 80}
 {"index": {}}
-{"moviename": "Children of Men", "datereleased": 2006, "genere": "Sci-Fi", "rating": 84}
+{"moviename": "Children of Men", "datereleased": 2006, "genere": "Adventure", "rating": 84}
 {"index": {}}
-{"moviename": "Almost Famous", "datereleased": 2000, "genere": "Comedy", "rating": 90}
+{"moviename": "Almost Famous", "datereleased": 2000, "genere": "Drama", "rating": 90}
 {"index": {}}
-{"moviename": "Mulholland Dr.", "datereleased": 2001, "genere": "Mystery", "rating": 85}
+{"moviename": "Mulholland Dr.", "datereleased": 2001, "genere": "Thriller", "rating": 85}
 {"index": {}}
-{"moviename": "Toy Story 2", "datereleased": 1999, "genere": "Adventure", "rating": 88}
+{"moviename": "Toy Story 2", "datereleased": 1999, "genere": "Animation", "rating": 88}
 {"index": {}}
 {"moviename": "Boogie Nights", "datereleased": 1997, "genere": "Drama", "rating": 85}
 {"index": {}}
@@ -1039,13 +1039,13 @@
 {"index": {}}
 {"moviename": "Once Were Warriors", "datereleased": 1994, "genere": "Drama", "rating": 77}
 {"index": {}}
-{"moviename": "True Romance", "datereleased": 1993, "genere": "Romance", "rating": 59}
+{"moviename": "True Romance", "datereleased": 1993, "genere": "Drama", "rating": 59}
 {"index": {}}
-{"moviename": "Trois couleurs: Bleu", "datereleased": 1993, "genere": "Music", "rating": 85}
+{"moviename": "Trois couleurs: Bleu", "datereleased": 1993, "genere": "Mystery", "rating": 85}
 {"index": {}}
-{"moviename": "J\u00fbb\u00ea ninp\u00fbch\u00f4", "datereleased": 1993, "genere": "Adventure"}
+{"moviename": "J\u00fbb\u00ea ninp\u00fbch\u00f4", "datereleased": 1993, "genere": "Action"}
 {"index": {}}
-{"moviename": "Carlito's Way", "datereleased": 1993, "genere": "Thriller", "rating": 65}
+{"moviename": "Carlito's Way", "datereleased": 1993, "genere": "Crime", "rating": 65}
 {"index": {}}
 {"moviename": "Edward Scissorhands", "datereleased": 1990, "genere": "Fantasy", "rating": 74}
 {"index": {}}
@@ -1059,47 +1059,47 @@
 {"index": {}}
 {"moviename": "Brazil", "datereleased": 1985, "genere": "Drama", "rating": 84}
 {"index": {}}
-{"moviename": "This Is Spinal Tap", "datereleased": 1984, "genere": "Comedy", "rating": 92}
+{"moviename": "This Is Spinal Tap", "datereleased": 1984, "genere": "Music", "rating": 92}
 {"index": {}}
-{"moviename": "A Christmas Story", "datereleased": 1983, "genere": "Family", "rating": 77}
+{"moviename": "A Christmas Story", "datereleased": 1983, "genere": "Comedy", "rating": 77}
 {"index": {}}
 {"moviename": "The Blues Brothers", "datereleased": 1980, "genere": "Adventure", "rating": 60}
 {"index": {}}
-{"moviename": "Manhattan", "datereleased": 1979, "genere": "Drama", "rating": 83}
+{"moviename": "Manhattan", "datereleased": 1979, "genere": "Comedy", "rating": 83}
 {"index": {}}
 {"moviename": "All That Jazz", "datereleased": 1979, "genere": "Musical", "rating": 72}
 {"index": {}}
-{"moviename": "Dawn of the Dead", "datereleased": 1978, "genere": "Adventure", "rating": 71}
+{"moviename": "Dawn of the Dead", "datereleased": 1978, "genere": "Horror", "rating": 71}
 {"index": {}}
 {"moviename": "All the President's Men", "datereleased": 1976, "genere": "Drama", "rating": 84}
 {"index": {}}
-{"moviename": "La monta\u00f1a sagrada", "datereleased": 1973, "genere": "Fantasy", "rating": 76}
+{"moviename": "La monta\u00f1a sagrada", "datereleased": 1973, "genere": "Drama", "rating": 76}
 {"index": {}}
-{"moviename": "Amarcord", "datereleased": 1973, "genere": "Drama"}
+{"moviename": "Amarcord", "datereleased": 1973, "genere": "Comedy"}
 {"index": {}}
 {"moviename": "Le charme discret de la bourgeoisie", "datereleased": 1972, "genere": "Comedy", "rating": 93}
 {"index": {}}
 {"moviename": "Aguirre, der Zorn Gottes", "datereleased": 1972, "genere": "Adventure"}
 {"index": {}}
-{"moviename": "Harold and Maude", "datereleased": 1971, "genere": "Romance", "rating": 62}
+{"moviename": "Harold and Maude", "datereleased": 1971, "genere": "Comedy", "rating": 62}
 {"index": {}}
-{"moviename": "Patton", "datereleased": 1970, "genere": "War", "rating": 91}
+{"moviename": "Patton", "datereleased": 1970, "genere": "Biography", "rating": 91}
 {"index": {}}
-{"moviename": "The Wild Bunch", "datereleased": 1969, "genere": "Action", "rating": 97}
+{"moviename": "The Wild Bunch", "datereleased": 1969, "genere": "Adventure", "rating": 97}
 {"index": {}}
 {"moviename": "Night of the Living Dead", "datereleased": 1968, "genere": "Thriller", "rating": 89}
 {"index": {}}
-{"moviename": "The Lion in Winter", "datereleased": 1968, "genere": "Biography"}
+{"moviename": "The Lion in Winter", "datereleased": 1968, "genere": "History"}
 {"index": {}}
-{"moviename": "In the Heat of the Night", "datereleased": 1967, "genere": "Crime", "rating": 75}
+{"moviename": "In the Heat of the Night", "datereleased": 1967, "genere": "Mystery", "rating": 75}
 {"index": {}}
-{"moviename": "Charade", "datereleased": 1963, "genere": "Mystery", "rating": 83}
+{"moviename": "Charade", "datereleased": 1963, "genere": "Romance", "rating": 83}
 {"index": {}}
 {"moviename": "The Manchurian Candidate", "datereleased": 1962, "genere": "Drama", "rating": 94}
 {"index": {}}
-{"moviename": "Spartacus", "datereleased": 1960, "genere": "Drama", "rating": 87}
+{"moviename": "Spartacus", "datereleased": 1960, "genere": "Adventure", "rating": 87}
 {"index": {}}
-{"moviename": "L'avventura", "datereleased": 1960, "genere": "Mystery"}
+{"moviename": "L'avventura", "datereleased": 1960, "genere": "Drama"}
 {"index": {}}
 {"moviename": "Hiroshima mon amour", "datereleased": 1959, "genere": "Drama"}
 {"index": {}}
@@ -1111,35 +1111,35 @@
 {"index": {}}
 {"moviename": "High Noon", "datereleased": 1952, "genere": "Drama", "rating": 89}
 {"index": {}}
-{"moviename": "Strangers on a Train", "datereleased": 1951, "genere": "Film-Noir", "rating": 88}
+{"moviename": "Strangers on a Train", "datereleased": 1951, "genere": "Thriller", "rating": 88}
 {"index": {}}
 {"moviename": "Harvey", "datereleased": 1950, "genere": "Fantasy"}
 {"index": {}}
 {"moviename": "Miracle on 34th Street", "datereleased": 1947, "genere": "Comedy", "rating": 88}
 {"index": {}}
-{"moviename": "Notorious", "datereleased": 1946, "genere": "Film-Noir", "rating": 100}
+{"moviename": "Notorious", "datereleased": 1946, "genere": "Drama", "rating": 100}
 {"index": {}}
 {"moviename": "The Big Sleep", "datereleased": 1946, "genere": "Film-Noir"}
 {"index": {}}
-{"moviename": "The Lost Weekend", "datereleased": 1945, "genere": "Drama"}
+{"moviename": "The Lost Weekend", "datereleased": 1945, "genere": "Film-Noir"}
 {"index": {}}
-{"moviename": "The Philadelphia Story", "datereleased": 1940, "genere": "Romance", "rating": 96}
+{"moviename": "The Philadelphia Story", "datereleased": 1940, "genere": "Comedy", "rating": 96}
 {"index": {}}
-{"moviename": "His Girl Friday", "datereleased": 1940, "genere": "Romance"}
+{"moviename": "His Girl Friday", "datereleased": 1940, "genere": "Comedy"}
 {"index": {}}
 {"moviename": "The Adventures of Robin Hood", "datereleased": 1938, "genere": "Action", "rating": 97}
 {"index": {}}
 {"moviename": "A Night at the Opera", "datereleased": 1935, "genere": "Comedy"}
 {"index": {}}
-{"moviename": "King Kong", "datereleased": 1933, "genere": "Horror", "rating": 90}
+{"moviename": "King Kong", "datereleased": 1933, "genere": "Sci-Fi", "rating": 90}
 {"index": {}}
-{"moviename": "Freaks", "datereleased": 1932, "genere": "Drama", "rating": 80}
+{"moviename": "Freaks", "datereleased": 1932, "genere": "Horror", "rating": 80}
 {"index": {}}
-{"moviename": "Nosferatu", "datereleased": 1922, "genere": "Horror"}
+{"moviename": "Nosferatu", "datereleased": 1922, "genere": "Fantasy"}
 {"index": {}}
-{"moviename": "The Gentlemen", "datereleased": 2019, "genere": "Action", "rating": 51}
+{"moviename": "The Gentlemen", "datereleased": 2019, "genere": "Comedy", "rating": 51}
 {"index": {}}
-{"moviename": "Raazi", "datereleased": 2018, "genere": "Drama"}
+{"moviename": "Raazi", "datereleased": 2018, "genere": "Thriller"}
 {"index": {}}
 {"moviename": "Sound of Metal", "datereleased": 2019, "genere": "Drama", "rating": 81}
 {"index": {}}
@@ -1151,27 +1151,27 @@
 {"index": {}}
 {"moviename": "Hidden Figures", "datereleased": 2016, "genere": "History", "rating": 74}
 {"index": {}}
-{"moviename": "Paddington 2", "datereleased": 2017, "genere": "Adventure", "rating": 88}
+{"moviename": "Paddington 2", "datereleased": 2017, "genere": "Comedy", "rating": 88}
 {"index": {}}
 {"moviename": "Udta Punjab", "datereleased": 2016, "genere": "Action"}
 {"index": {}}
-{"moviename": "Kubo and the Two Strings", "datereleased": 2016, "genere": "Animation", "rating": 84}
+{"moviename": "Kubo and the Two Strings", "datereleased": 2016, "genere": "Action", "rating": 84}
 {"index": {}}
-{"moviename": "M.S. Dhoni: The Untold Story", "datereleased": 2016, "genere": "Sport"}
+{"moviename": "M.S. Dhoni: The Untold Story", "datereleased": 2016, "genere": "Drama"}
 {"index": {}}
 {"moviename": "Manchester by the Sea", "datereleased": 2016, "genere": "Drama", "rating": 96}
 {"index": {}}
-{"moviename": "Under sandet", "datereleased": 2015, "genere": "Drama", "rating": 75}
+{"moviename": "Under sandet", "datereleased": 2015, "genere": "War", "rating": 75}
 {"index": {}}
-{"moviename": "Rogue One", "datereleased": 2016, "genere": "Sci-Fi", "rating": 65}
+{"moviename": "Rogue One", "datereleased": 2016, "genere": "Action", "rating": 65}
 {"index": {}}
 {"moviename": "Captain America: Civil War", "datereleased": 2016, "genere": "Action", "rating": 75}
 {"index": {}}
-{"moviename": "The Hateful Eight", "datereleased": 2015, "genere": "Mystery", "rating": 68}
+{"moviename": "The Hateful Eight", "datereleased": 2015, "genere": "Drama", "rating": 68}
 {"index": {}}
-{"moviename": "Little Women", "datereleased": 2019, "genere": "Drama", "rating": 91}
+{"moviename": "Little Women", "datereleased": 2019, "genere": "Romance", "rating": 91}
 {"index": {}}
-{"moviename": "Loving Vincent", "datereleased": 2017, "genere": "Biography", "rating": 62}
+{"moviename": "Loving Vincent", "datereleased": 2017, "genere": "Crime", "rating": 62}
 {"index": {}}
 {"moviename": "Pride", "datereleased": 2014, "genere": "Comedy", "rating": 79}
 {"index": {}}
@@ -1181,41 +1181,41 @@
 {"index": {}}
 {"moviename": "The Lunchbox", "datereleased": 2013, "genere": "Romance", "rating": 76}
 {"index": {}}
-{"moviename": "Vicky Donor", "datereleased": 2012, "genere": "Romance"}
+{"moviename": "Vicky Donor", "datereleased": 2012, "genere": "Comedy"}
 {"index": {}}
-{"moviename": "Big Hero 6", "datereleased": 2014, "genere": "Adventure", "rating": 74}
+{"moviename": "Big Hero 6", "datereleased": 2014, "genere": "Animation", "rating": 74}
 {"index": {}}
-{"moviename": "About Time", "datereleased": 2013, "genere": "Comedy", "rating": 55}
+{"moviename": "About Time", "datereleased": 2013, "genere": "Drama", "rating": 55}
 {"index": {}}
-{"moviename": "English Vinglish", "datereleased": 2012, "genere": "Drama"}
+{"moviename": "English Vinglish", "datereleased": 2012, "genere": "Family"}
 {"index": {}}
-{"moviename": "Kaze tachinu", "datereleased": 2013, "genere": "Drama", "rating": 83}
+{"moviename": "Kaze tachinu", "datereleased": 2013, "genere": "Biography", "rating": 83}
 {"index": {}}
-{"moviename": "Toy Story 4", "datereleased": 2019, "genere": "Animation", "rating": 84}
+{"moviename": "Toy Story 4", "datereleased": 2019, "genere": "Comedy", "rating": 84}
 {"index": {}}
-{"moviename": "La migliore offerta", "datereleased": 2013, "genere": "Crime", "rating": 49}
+{"moviename": "La migliore offerta", "datereleased": 2013, "genere": "Drama", "rating": 49}
 {"index": {}}
-{"moviename": "Moonrise Kingdom", "datereleased": 2012, "genere": "Romance", "rating": 84}
+{"moviename": "Moonrise Kingdom", "datereleased": 2012, "genere": "Comedy", "rating": 84}
 {"index": {}}
 {"moviename": "How to Train Your Dragon 2", "datereleased": 2014, "genere": "Adventure", "rating": 76}
 {"index": {}}
-{"moviename": "The Big Short", "datereleased": 2015, "genere": "Drama", "rating": 81}
+{"moviename": "The Big Short", "datereleased": 2015, "genere": "Comedy", "rating": 81}
 {"index": {}}
-{"moviename": "Kokuhaku", "datereleased": 2010, "genere": "Drama"}
+{"moviename": "Kokuhaku", "datereleased": 2010, "genere": "Thriller"}
 {"index": {}}
-{"moviename": "Ang-ma-reul bo-at-da", "datereleased": 2010, "genere": "Action", "rating": 67}
+{"moviename": "Ang-ma-reul bo-at-da", "datereleased": 2010, "genere": "Crime", "rating": 67}
 {"index": {}}
 {"moviename": "The Girl with the Dragon Tattoo", "datereleased": 2011, "genere": "Crime", "rating": 71}
 {"index": {}}
-{"moviename": "Captain Phillips", "datereleased": 2013, "genere": "Crime", "rating": 82}
+{"moviename": "Captain Phillips", "datereleased": 2013, "genere": "Biography", "rating": 82}
 {"index": {}}
-{"moviename": "Ajeossi", "datereleased": 2010, "genere": "Crime"}
+{"moviename": "Ajeossi", "datereleased": 2010, "genere": "Action"}
 {"index": {}}
-{"moviename": "Straight Outta Compton", "datereleased": 2015, "genere": "Drama", "rating": 72}
+{"moviename": "Straight Outta Compton", "datereleased": 2015, "genere": "History", "rating": 72}
 {"index": {}}
-{"moviename": "Madeo", "datereleased": 2009, "genere": "Crime", "rating": 79}
+{"moviename": "Madeo", "datereleased": 2009, "genere": "Drama", "rating": 79}
 {"index": {}}
-{"moviename": "Chugyeokja", "datereleased": 2008, "genere": "Thriller", "rating": 64}
+{"moviename": "Chugyeokja", "datereleased": 2008, "genere": "Action", "rating": 64}
 {"index": {}}
 {"moviename": "The Hobbit: The Desolation of Smaug", "datereleased": 2013, "genere": "Fantasy", "rating": 66}
 {"index": {}}
@@ -1225,51 +1225,51 @@
 {"index": {}}
 {"moviename": "The Trial of the Chicago 7", "datereleased": 2020, "genere": "History", "rating": 77}
 {"index": {}}
-{"moviename": "Druk", "datereleased": 2020, "genere": "Drama", "rating": 81}
+{"moviename": "Druk", "datereleased": 2020, "genere": "Comedy", "rating": 81}
 {"index": {}}
-{"moviename": "The Fighter", "datereleased": 2010, "genere": "Drama", "rating": 79}
+{"moviename": "The Fighter", "datereleased": 2010, "genere": "Sport", "rating": 79}
 {"index": {}}
-{"moviename": "Taken", "datereleased": 2008, "genere": "Action", "rating": 51}
+{"moviename": "Taken", "datereleased": 2008, "genere": "Thriller", "rating": 51}
 {"index": {}}
 {"moviename": "The Boy in the Striped Pyjamas", "datereleased": 2008, "genere": "War", "rating": 55}
 {"index": {}}
-{"moviename": "Once", "datereleased": 2007, "genere": "Music", "rating": 88}
+{"moviename": "Once", "datereleased": 2007, "genere": "Romance", "rating": 88}
 {"index": {}}
-{"moviename": "The Hobbit: An Unexpected Journey", "datereleased": 2012, "genere": "Fantasy", "rating": 58}
+{"moviename": "The Hobbit: An Unexpected Journey", "datereleased": 2012, "genere": "Adventure", "rating": 58}
 {"index": {}}
 {"moviename": "Auf der anderen Seite", "datereleased": 2007, "genere": "Drama", "rating": 85}
 {"index": {}}
-{"moviename": "Atonement", "datereleased": 2007, "genere": "Mystery", "rating": 85}
+{"moviename": "Atonement", "datereleased": 2007, "genere": "Drama", "rating": 85}
 {"index": {}}
 {"moviename": "Drive", "datereleased": 2011, "genere": "Drama", "rating": 78}
 {"index": {}}
-{"moviename": "American Gangster", "datereleased": 2007, "genere": "Biography", "rating": 76}
+{"moviename": "American Gangster", "datereleased": 2007, "genere": "Crime", "rating": 76}
 {"index": {}}
 {"moviename": "Avatar", "datereleased": 2009, "genere": "Action", "rating": 83}
 {"index": {}}
-{"moviename": "Mr. Nobody", "datereleased": 2009, "genere": "Drama", "rating": 63}
+{"moviename": "Mr. Nobody", "datereleased": 2009, "genere": "Fantasy", "rating": 63}
 {"index": {}}
 {"moviename": "Apocalypto", "datereleased": 2006, "genere": "Action", "rating": 68}
 {"index": {}}
 {"moviename": "Little Miss Sunshine", "datereleased": 2006, "genere": "Drama", "rating": 80}
 {"index": {}}
-{"moviename": "Hot Fuzz", "datereleased": 2007, "genere": "Action", "rating": 81}
+{"moviename": "Hot Fuzz", "datereleased": 2007, "genere": "Comedy", "rating": 81}
 {"index": {}}
-{"moviename": "The Curious Case of Benjamin Button", "datereleased": 2008, "genere": "Fantasy", "rating": 70}
+{"moviename": "The Curious Case of Benjamin Button", "datereleased": 2008, "genere": "Romance", "rating": 70}
 {"index": {}}
 {"moviename": "Veer-Zaara", "datereleased": 2004, "genere": "Musical", "rating": 67}
 {"index": {}}
 {"moviename": "Adams \u00e6bler", "datereleased": 2005, "genere": "Crime", "rating": 51}
 {"index": {}}
-{"moviename": "Pride & Prejudice", "datereleased": 2005, "genere": "Drama", "rating": 82}
+{"moviename": "Pride & Prejudice", "datereleased": 2005, "genere": "Romance", "rating": 82}
 {"index": {}}
-{"moviename": "The World's Fastest Indian", "datereleased": 2005, "genere": "Drama", "rating": 68}
+{"moviename": "The World's Fastest Indian", "datereleased": 2005, "genere": "Sport", "rating": 68}
 {"index": {}}
-{"moviename": "T\u00f4ky\u00f4 goddof\u00e2z\u00e2zu", "datereleased": 2003, "genere": "Animation", "rating": 73}
+{"moviename": "T\u00f4ky\u00f4 goddof\u00e2z\u00e2zu", "datereleased": 2003, "genere": "Adventure", "rating": 73}
 {"index": {}}
-{"moviename": "Serenity", "datereleased": 2005, "genere": "Sci-Fi", "rating": 74}
+{"moviename": "Serenity", "datereleased": 2005, "genere": "Action", "rating": 74}
 {"index": {}}
-{"moviename": "Walk the Line", "datereleased": 2005, "genere": "Biography", "rating": 72}
+{"moviename": "Walk the Line", "datereleased": 2005, "genere": "Drama", "rating": 72}
 {"index": {}}
 {"moviename": "Ondskan", "datereleased": 2003, "genere": "Drama", "rating": 61}
 {"index": {}}
@@ -1279,15 +1279,15 @@
 {"index": {}}
 {"moviename": "Lilja 4-ever", "datereleased": 2002, "genere": "Drama", "rating": 82}
 {"index": {}}
-{"moviename": "Les triplettes de Belleville", "datereleased": 2003, "genere": "Drama", "rating": 91}
+{"moviename": "Les triplettes de Belleville", "datereleased": 2003, "genere": "Animation", "rating": 91}
 {"index": {}}
-{"moviename": "Gongdong gyeongbi guyeok JSA", "datereleased": 2000, "genere": "Action", "rating": 58}
+{"moviename": "Gongdong gyeongbi guyeok JSA", "datereleased": 2000, "genere": "Drama", "rating": 58}
 {"index": {}}
-{"moviename": "The Count of Monte Cristo", "datereleased": 2002, "genere": "Action", "rating": 61}
+{"moviename": "The Count of Monte Cristo", "datereleased": 2002, "genere": "Adventure", "rating": 61}
 {"index": {}}
-{"moviename": "Waking Life", "datereleased": 2001, "genere": "Drama", "rating": 83}
+{"moviename": "Waking Life", "datereleased": 2001, "genere": "Fantasy", "rating": 83}
 {"index": {}}
-{"moviename": "Remember the Titans", "datereleased": 2000, "genere": "Drama", "rating": 48}
+{"moviename": "Remember the Titans", "datereleased": 2000, "genere": "Biography", "rating": 48}
 {"index": {}}
 {"moviename": "Wo hu cang long", "datereleased": 2000, "genere": "Adventure", "rating": 94}
 {"index": {}}
@@ -1295,25 +1295,25 @@
 {"index": {}}
 {"moviename": "Cast Away", "datereleased": 2000, "genere": "Adventure", "rating": 73}
 {"index": {}}
-{"moviename": "The Boondock Saints", "datereleased": 1999, "genere": "Action", "rating": 44}
+{"moviename": "The Boondock Saints", "datereleased": 1999, "genere": "Thriller", "rating": 44}
 {"index": {}}
-{"moviename": "The Insider", "datereleased": 1999, "genere": "Drama", "rating": 84}
+{"moviename": "The Insider", "datereleased": 1999, "genere": "Thriller", "rating": 84}
 {"index": {}}
-{"moviename": "October Sky", "datereleased": 1999, "genere": "Family", "rating": 71}
+{"moviename": "October Sky", "datereleased": 1999, "genere": "Drama", "rating": 71}
 {"index": {}}
-{"moviename": "Shrek", "datereleased": 2001, "genere": "Animation", "rating": 84}
+{"moviename": "Shrek", "datereleased": 2001, "genere": "Adventure", "rating": 84}
 {"index": {}}
-{"moviename": "Titanic", "datereleased": 1997, "genere": "Romance", "rating": 75}
+{"moviename": "Titanic", "datereleased": 1997, "genere": "Drama", "rating": 75}
 {"index": {}}
-{"moviename": "Hana-bi", "datereleased": 1997, "genere": "Romance"}
+{"moviename": "Hana-bi", "datereleased": 1997, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Gattaca", "datereleased": 1997, "genere": "Drama", "rating": 64}
+{"moviename": "Gattaca", "datereleased": 1997, "genere": "Sci-Fi", "rating": 64}
 {"index": {}}
-{"moviename": "The Game", "datereleased": 1997, "genere": "Mystery", "rating": 61}
+{"moviename": "The Game", "datereleased": 1997, "genere": "Action", "rating": 61}
 {"index": {}}
 {"moviename": "Breaking the Waves", "datereleased": 1996, "genere": "Drama", "rating": 76}
 {"index": {}}
-{"moviename": "Ed Wood", "datereleased": 1994, "genere": "Comedy", "rating": 70}
+{"moviename": "Ed Wood", "datereleased": 1994, "genere": "Biography", "rating": 70}
 {"index": {}}
 {"moviename": "What's Eating Gilbert Grape", "datereleased": 1993, "genere": "Drama", "rating": 73}
 {"index": {}}
@@ -1327,53 +1327,53 @@
 {"index": {}}
 {"moviename": "The Fugitive", "datereleased": 1993, "genere": "Action", "rating": 87}
 {"index": {}}
-{"moviename": "A Bronx Tale", "datereleased": 1993, "genere": "Drama", "rating": 80}
+{"moviename": "A Bronx Tale", "datereleased": 1993, "genere": "Romance", "rating": 80}
 {"index": {}}
 {"moviename": "Batman: Mask of the Phantasm", "datereleased": 1993, "genere": "Action"}
 {"index": {}}
-{"moviename": "Lat sau san taam", "datereleased": 1992, "genere": "Action"}
+{"moviename": "Lat sau san taam", "datereleased": 1992, "genere": "Thriller"}
 {"index": {}}
-{"moviename": "Night on Earth", "datereleased": 1991, "genere": "Comedy", "rating": 68}
+{"moviename": "Night on Earth", "datereleased": 1991, "genere": "Drama", "rating": 68}
 {"index": {}}
-{"moviename": "La double vie de V\u00e9ronique", "datereleased": 1991, "genere": "Music", "rating": 86}
+{"moviename": "La double vie de V\u00e9ronique", "datereleased": 1991, "genere": "Fantasy", "rating": 86}
 {"index": {}}
-{"moviename": "Boyz n the Hood", "datereleased": 1991, "genere": "Crime", "rating": 76}
+{"moviename": "Boyz n the Hood", "datereleased": 1991, "genere": "Drama", "rating": 76}
 {"index": {}}
 {"moviename": "Misery", "datereleased": 1990, "genere": "Thriller", "rating": 75}
 {"index": {}}
 {"moviename": "Awakenings", "datereleased": 1990, "genere": "Drama", "rating": 74}
 {"index": {}}
-{"moviename": "Majo no takky\u00fbbin", "datereleased": 1989, "genere": "Drama", "rating": 83}
+{"moviename": "Majo no takky\u00fbbin", "datereleased": 1989, "genere": "Adventure", "rating": 83}
 {"index": {}}
-{"moviename": "Glory", "datereleased": 1989, "genere": "Drama", "rating": 78}
+{"moviename": "Glory", "datereleased": 1989, "genere": "History", "rating": 78}
 {"index": {}}
 {"moviename": "Dip huet seung hung", "datereleased": 1989, "genere": "Action", "rating": 82}
 {"index": {}}
-{"moviename": "Back to the Future Part II", "datereleased": 1989, "genere": "Sci-Fi", "rating": 57}
+{"moviename": "Back to the Future Part II", "datereleased": 1989, "genere": "Adventure", "rating": 57}
 {"index": {}}
-{"moviename": "Mississippi Burning", "datereleased": 1988, "genere": "Drama", "rating": 65}
+{"moviename": "Mississippi Burning", "datereleased": 1988, "genere": "History", "rating": 65}
 {"index": {}}
-{"moviename": "Predator", "datereleased": 1987, "genere": "Adventure", "rating": 45}
+{"moviename": "Predator", "datereleased": 1987, "genere": "Sci-Fi", "rating": 45}
 {"index": {}}
-{"moviename": "Evil Dead II", "datereleased": 1987, "genere": "Fantasy", "rating": 72}
+{"moviename": "Evil Dead II", "datereleased": 1987, "genere": "Comedy", "rating": 72}
 {"index": {}}
 {"moviename": "Ferris Bueller's Day Off", "datereleased": 1986, "genere": "Comedy", "rating": 61}
 {"index": {}}
-{"moviename": "Down by Law", "datereleased": 1986, "genere": "Crime", "rating": 75}
+{"moviename": "Down by Law", "datereleased": 1986, "genere": "Comedy", "rating": 75}
 {"index": {}}
-{"moviename": "The Goonies", "datereleased": 1985, "genere": "Family", "rating": 62}
+{"moviename": "The Goonies", "datereleased": 1985, "genere": "Adventure", "rating": 62}
 {"index": {}}
 {"moviename": "The Color Purple", "datereleased": 1985, "genere": "Drama", "rating": 78}
 {"index": {}}
-{"moviename": "The Breakfast Club", "datereleased": 1985, "genere": "Comedy", "rating": 66}
+{"moviename": "The Breakfast Club", "datereleased": 1985, "genere": "Drama", "rating": 66}
 {"index": {}}
-{"moviename": "The Killing Fields", "datereleased": 1984, "genere": "Biography", "rating": 76}
+{"moviename": "The Killing Fields", "datereleased": 1984, "genere": "Drama", "rating": 76}
 {"index": {}}
 {"moviename": "Ghostbusters", "datereleased": 1984, "genere": "Action", "rating": 71}
 {"index": {}}
-{"moviename": "The Right Stuff", "datereleased": 1983, "genere": "Drama", "rating": 91}
+{"moviename": "The Right Stuff", "datereleased": 1983, "genere": "Adventure", "rating": 91}
 {"index": {}}
-{"moviename": "The King of Comedy", "datereleased": 1982, "genere": "Comedy", "rating": 73}
+{"moviename": "The King of Comedy", "datereleased": 1982, "genere": "Crime", "rating": 73}
 {"index": {}}
 {"moviename": "E.T. the Extra-Terrestrial", "datereleased": 1982, "genere": "Family", "rating": 91}
 {"index": {}}
@@ -1383,19 +1383,19 @@
 {"index": {}}
 {"moviename": "The Outlaw Josey Wales", "datereleased": 1976, "genere": "Western", "rating": 69}
 {"index": {}}
-{"moviename": "The Man Who Would Be King", "datereleased": 1975, "genere": "War", "rating": 91}
+{"moviename": "The Man Who Would Be King", "datereleased": 1975, "genere": "History", "rating": 91}
 {"index": {}}
 {"moviename": "The Conversation", "datereleased": 1974, "genere": "Mystery", "rating": 85}
 {"index": {}}
-{"moviename": "La plan\u00e8te sauvage", "datereleased": 1973, "genere": "Animation", "rating": 73}
+{"moviename": "La plan\u00e8te sauvage", "datereleased": 1973, "genere": "Sci-Fi", "rating": 73}
 {"index": {}}
-{"moviename": "The Day of the Jackal", "datereleased": 1973, "genere": "Thriller", "rating": 80}
+{"moviename": "The Day of the Jackal", "datereleased": 1973, "genere": "Drama", "rating": 80}
 {"index": {}}
-{"moviename": "Badlands", "datereleased": 1973, "genere": "Crime", "rating": 93}
+{"moviename": "Badlands", "datereleased": 1973, "genere": "Drama", "rating": 93}
 {"index": {}}
 {"moviename": "Cabaret", "datereleased": 1972, "genere": "Drama", "rating": 80}
 {"index": {}}
-{"moviename": "Willy Wonka & the Chocolate Factory", "datereleased": 1971, "genere": "Musical", "rating": 67}
+{"moviename": "Willy Wonka & the Chocolate Factory", "datereleased": 1971, "genere": "Family", "rating": 67}
 {"index": {}}
 {"moviename": "Midnight Cowboy", "datereleased": 1969, "genere": "Drama", "rating": 79}
 {"index": {}}
@@ -1407,21 +1407,21 @@
 {"index": {}}
 {"moviename": "My Fair Lady", "datereleased": 1964, "genere": "Drama", "rating": 95}
 {"index": {}}
-{"moviename": "Mary Poppins", "datereleased": 1964, "genere": "Fantasy", "rating": 88}
+{"moviename": "Mary Poppins", "datereleased": 1964, "genere": "Family", "rating": 88}
 {"index": {}}
-{"moviename": "The Longest Day", "datereleased": 1962, "genere": "Drama", "rating": 75}
+{"moviename": "The Longest Day", "datereleased": 1962, "genere": "Action", "rating": 75}
 {"index": {}}
-{"moviename": "Jules et Jim", "datereleased": 1962, "genere": "Drama", "rating": 97}
+{"moviename": "Jules et Jim", "datereleased": 1962, "genere": "Romance", "rating": 97}
 {"index": {}}
 {"moviename": "The Innocents", "datereleased": 1961, "genere": "Horror", "rating": 88}
 {"index": {}}
-{"moviename": "\u00c0 bout de souffle", "datereleased": 1960, "genere": "Crime"}
+{"moviename": "\u00c0 bout de souffle", "datereleased": 1960, "genere": "Drama"}
 {"index": {}}
-{"moviename": "Red River", "datereleased": 1948, "genere": "Adventure"}
+{"moviename": "Red River", "datereleased": 1948, "genere": "Action"}
 {"index": {}}
-{"moviename": "Key Largo", "datereleased": 1948, "genere": "Action"}
+{"moviename": "Key Largo", "datereleased": 1948, "genere": "Crime"}
 {"index": {}}
-{"moviename": "To Have and Have Not", "datereleased": 1944, "genere": "Comedy"}
+{"moviename": "To Have and Have Not", "datereleased": 1944, "genere": "Adventure"}
 {"index": {}}
 {"moviename": "Shadow of a Doubt", "datereleased": 1943, "genere": "Film-Noir", "rating": 94}
 {"index": {}}
@@ -1429,11 +1429,11 @@
 {"index": {}}
 {"moviename": "The Lady Vanishes", "datereleased": 1938, "genere": "Thriller", "rating": 98}
 {"index": {}}
-{"moviename": "Bringing Up Baby", "datereleased": 1938, "genere": "Family", "rating": 91}
+{"moviename": "Bringing Up Baby", "datereleased": 1938, "genere": "Comedy", "rating": 91}
 {"index": {}}
-{"moviename": "Bride of Frankenstein", "datereleased": 1935, "genere": "Drama", "rating": 95}
+{"moviename": "Bride of Frankenstein", "datereleased": 1935, "genere": "Horror", "rating": 95}
 {"index": {}}
-{"moviename": "Duck Soup", "datereleased": 1933, "genere": "Musical", "rating": 93}
+{"moviename": "Duck Soup", "datereleased": 1933, "genere": "War", "rating": 93}
 {"index": {}}
 {"moviename": "Scarface: The Shame of the Nation", "datereleased": 1932, "genere": "Crime", "rating": 87}
 {"index": {}}
@@ -1443,17 +1443,17 @@
 {"index": {}}
 {"moviename": "God's Own Country", "datereleased": 2017, "genere": "Drama", "rating": 85}
 {"index": {}}
-{"moviename": "Deadpool 2", "datereleased": 2018, "genere": "Adventure", "rating": 66}
+{"moviename": "Deadpool 2", "datereleased": 2018, "genere": "Comedy", "rating": 66}
 {"index": {}}
 {"moviename": "Wind River", "datereleased": 2017, "genere": "Mystery", "rating": 73}
 {"index": {}}
-{"moviename": "Get Out", "datereleased": 2017, "genere": "Horror", "rating": 85}
+{"moviename": "Get Out", "datereleased": 2017, "genere": "Mystery", "rating": 85}
 {"index": {}}
-{"moviename": "Mission: Impossible - Fallout", "datereleased": 2018, "genere": "Adventure", "rating": 86}
+{"moviename": "Mission: Impossible - Fallout", "datereleased": 2018, "genere": "Action", "rating": 86}
 {"index": {}}
 {"moviename": "En man som heter Ove", "datereleased": 2015, "genere": "Comedy", "rating": 70}
 {"index": {}}
-{"moviename": "What We Do in the Shadows", "datereleased": 2014, "genere": "Horror", "rating": 76}
+{"moviename": "What We Do in the Shadows", "datereleased": 2014, "genere": "Comedy", "rating": 76}
 {"index": {}}
 {"moviename": "Omoide no M\u00e2n\u00ee", "datereleased": 2014, "genere": "Animation", "rating": 72}
 {"index": {}}
@@ -1461,37 +1461,37 @@
 {"index": {}}
 {"moviename": "Kingsman: The Secret Service", "datereleased": 2014, "genere": "Comedy", "rating": 60}
 {"index": {}}
-{"moviename": "The Fault in Our Stars", "datereleased": 2014, "genere": "Drama", "rating": 69}
+{"moviename": "The Fault in Our Stars", "datereleased": 2014, "genere": "Romance", "rating": 69}
 {"index": {}}
-{"moviename": "Me and Earl and the Dying Girl", "datereleased": 2015, "genere": "Comedy", "rating": 74}
+{"moviename": "Me and Earl and the Dying Girl", "datereleased": 2015, "genere": "Drama", "rating": 74}
 {"index": {}}
 {"moviename": "Birdman or (The Unexpected Virtue of Ignorance)", "datereleased": 2014, "genere": "Comedy", "rating": 87}
 {"index": {}}
-{"moviename": "La vie d'Ad\u00e8le", "datereleased": 2013, "genere": "Drama", "rating": 89}
+{"moviename": "La vie d'Ad\u00e8le", "datereleased": 2013, "genere": "Romance", "rating": 89}
 {"index": {}}
 {"moviename": "Kai po che!", "datereleased": 2013, "genere": "Drama", "rating": 40}
 {"index": {}}
-{"moviename": "The Broken Circle Breakdown", "datereleased": 2012, "genere": "Romance", "rating": 70}
+{"moviename": "The Broken Circle Breakdown", "datereleased": 2012, "genere": "Drama", "rating": 70}
 {"index": {}}
-{"moviename": "Captain America: The Winter Soldier", "datereleased": 2014, "genere": "Action", "rating": 70}
+{"moviename": "Captain America: The Winter Soldier", "datereleased": 2014, "genere": "Sci-Fi", "rating": 70}
 {"index": {}}
-{"moviename": "Rockstar", "datereleased": 2011, "genere": "Drama"}
+{"moviename": "Rockstar", "datereleased": 2011, "genere": "Music"}
 {"index": {}}
-{"moviename": "Nebraska", "datereleased": 2013, "genere": "Drama", "rating": 87}
+{"moviename": "Nebraska", "datereleased": 2013, "genere": "Adventure", "rating": 87}
 {"index": {}}
-{"moviename": "Wreck-It Ralph", "datereleased": 2012, "genere": "Comedy", "rating": 72}
+{"moviename": "Wreck-It Ralph", "datereleased": 2012, "genere": "Adventure", "rating": 72}
 {"index": {}}
 {"moviename": "Le Petit Prince", "datereleased": 2015, "genere": "Adventure", "rating": 70}
 {"index": {}}
 {"moviename": "Detachment", "datereleased": 2011, "genere": "Drama", "rating": 52}
 {"index": {}}
-{"moviename": "Midnight in Paris", "datereleased": 2011, "genere": "Romance", "rating": 81}
+{"moviename": "Midnight in Paris", "datereleased": 2011, "genere": "Fantasy", "rating": 81}
 {"index": {}}
-{"moviename": "The Lego Movie", "datereleased": 2014, "genere": "Action", "rating": 83}
+{"moviename": "The Lego Movie", "datereleased": 2014, "genere": "Animation", "rating": 83}
 {"index": {}}
-{"moviename": "Gravity", "datereleased": 2013, "genere": "Sci-Fi", "rating": 96}
+{"moviename": "Gravity", "datereleased": 2013, "genere": "Drama", "rating": 96}
 {"index": {}}
-{"moviename": "Star Trek Into Darkness", "datereleased": 2013, "genere": "Sci-Fi", "rating": 72}
+{"moviename": "Star Trek Into Darkness", "datereleased": 2013, "genere": "Adventure", "rating": 72}
 {"index": {}}
 {"moviename": "Beasts of No Nation", "datereleased": 2015, "genere": "War", "rating": 79}
 {"index": {}}
@@ -1501,17 +1501,17 @@
 {"index": {}}
 {"moviename": "The Hangover", "datereleased": 2009, "genere": "Comedy", "rating": 73}
 {"index": {}}
-{"moviename": "Skyfall", "datereleased": 2012, "genere": "Thriller", "rating": 81}
+{"moviename": "Skyfall", "datereleased": 2012, "genere": "Action", "rating": 81}
 {"index": {}}
-{"moviename": "Silver Linings Playbook", "datereleased": 2012, "genere": "Romance", "rating": 81}
+{"moviename": "Silver Linings Playbook", "datereleased": 2012, "genere": "Drama", "rating": 81}
 {"index": {}}
-{"moviename": "Argo", "datereleased": 2012, "genere": "Drama", "rating": 86}
+{"moviename": "Argo", "datereleased": 2012, "genere": "Biography", "rating": 86}
 {"index": {}}
 {"moviename": "(500) Days of Summer", "datereleased": 2009, "genere": "Drama", "rating": 76}
 {"index": {}}
-{"moviename": "Harry Potter and the Deathly Hallows: Part 1", "datereleased": 2010, "genere": "Family", "rating": 65}
+{"moviename": "Harry Potter and the Deathly Hallows: Part 1", "datereleased": 2010, "genere": "Fantasy", "rating": 65}
 {"index": {}}
-{"moviename": "Gake no ue no Ponyo", "datereleased": 2008, "genere": "Animation", "rating": 86}
+{"moviename": "Gake no ue no Ponyo", "datereleased": 2008, "genere": "Comedy", "rating": 86}
 {"index": {}}
 {"moviename": "Frost/Nixon", "datereleased": 2008, "genere": "Biography", "rating": 80}
 {"index": {}}
@@ -1519,11 +1519,11 @@
 {"index": {}}
 {"moviename": "Changeling", "datereleased": 2008, "genere": "Biography", "rating": 63}
 {"index": {}}
-{"moviename": "Flipped", "datereleased": 2010, "genere": "Drama", "rating": 45}
+{"moviename": "Flipped", "datereleased": 2010, "genere": "Romance", "rating": 45}
 {"index": {}}
 {"moviename": "Toki o kakeru sh\u00f4jo", "datereleased": 2006, "genere": "Adventure"}
 {"index": {}}
-{"moviename": "Death Note: Desu n\u00f4to", "datereleased": 2006, "genere": "Crime"}
+{"moviename": "Death Note: Desu n\u00f4to", "datereleased": 2006, "genere": "Drama"}
 {"index": {}}
 {"moviename": "This Is England", "datereleased": 2006, "genere": "Crime", "rating": 86}
 {"index": {}}
@@ -1531,19 +1531,19 @@
 {"index": {}}
 {"moviename": "Efter brylluppet", "datereleased": 2006, "genere": "Drama", "rating": 78}
 {"index": {}}
-{"moviename": "The Last King of Scotland", "datereleased": 2006, "genere": "History", "rating": 74}
+{"moviename": "The Last King of Scotland", "datereleased": 2006, "genere": "Biography", "rating": 74}
 {"index": {}}
 {"moviename": "Zodiac", "datereleased": 2007, "genere": "Drama", "rating": 78}
 {"index": {}}
-{"moviename": "Lucky Number Slevin", "datereleased": 2006, "genere": "Action", "rating": 53}
+{"moviename": "Lucky Number Slevin", "datereleased": 2006, "genere": "Crime", "rating": 53}
 {"index": {}}
-{"moviename": "Joyeux No\u00ebl", "datereleased": 2005, "genere": "History", "rating": 70}
+{"moviename": "Joyeux No\u00ebl", "datereleased": 2005, "genere": "Music", "rating": 70}
 {"index": {}}
 {"moviename": "Control", "datereleased": 2007, "genere": "Drama", "rating": 78}
 {"index": {}}
-{"moviename": "Tangled", "datereleased": 2010, "genere": "Comedy", "rating": 71}
+{"moviename": "Tangled", "datereleased": 2010, "genere": "Adventure", "rating": 71}
 {"index": {}}
-{"moviename": "Zwartboek", "datereleased": 2006, "genere": "War", "rating": 71}
+{"moviename": "Zwartboek", "datereleased": 2006, "genere": "Drama", "rating": 71}
 {"index": {}}
 {"moviename": "Brokeback Mountain", "datereleased": 2005, "genere": "Romance", "rating": 87}
 {"index": {}}
@@ -1551,23 +1551,23 @@
 {"index": {}}
 {"moviename": "Crash", "datereleased": 2004, "genere": "Drama", "rating": 66}
 {"index": {}}
-{"moviename": "Kung fu", "datereleased": 2004, "genere": "Fantasy", "rating": 78}
+{"moviename": "Kung fu", "datereleased": 2004, "genere": "Comedy", "rating": 78}
 {"index": {}}
-{"moviename": "The Bourne Supremacy", "datereleased": 2004, "genere": "Thriller", "rating": 73}
+{"moviename": "The Bourne Supremacy", "datereleased": 2004, "genere": "Mystery", "rating": 73}
 {"index": {}}
-{"moviename": "The Machinist", "datereleased": 2004, "genere": "Thriller", "rating": 61}
+{"moviename": "The Machinist", "datereleased": 2004, "genere": "Drama", "rating": 61}
 {"index": {}}
-{"moviename": "Ray", "datereleased": 2004, "genere": "Biography", "rating": 73}
+{"moviename": "Ray", "datereleased": 2004, "genere": "Music", "rating": 73}
 {"index": {}}
 {"moviename": "Lost in Translation", "datereleased": 2003, "genere": "Comedy", "rating": 89}
 {"index": {}}
-{"moviename": "Harry Potter and the Goblet of Fire", "datereleased": 2005, "genere": "Adventure", "rating": 81}
+{"moviename": "Harry Potter and the Goblet of Fire", "datereleased": 2005, "genere": "Family", "rating": 81}
 {"index": {}}
-{"moviename": "Man on Fire", "datereleased": 2004, "genere": "Drama", "rating": 47}
+{"moviename": "Man on Fire", "datereleased": 2004, "genere": "Crime", "rating": 47}
 {"index": {}}
-{"moviename": "Coraline", "datereleased": 2009, "genere": "Drama", "rating": 80}
+{"moviename": "Coraline", "datereleased": 2009, "genere": "Family", "rating": 80}
 {"index": {}}
-{"moviename": "The Last Samurai", "datereleased": 2003, "genere": "Action", "rating": 55}
+{"moviename": "The Last Samurai", "datereleased": 2003, "genere": "Drama", "rating": 55}
 {"index": {}}
 {"moviename": "The Magdalene Sisters", "datereleased": 2002, "genere": "Drama", "rating": 83}
 {"index": {}}
@@ -1579,45 +1579,45 @@
 {"index": {}}
 {"moviename": "Adaptation.", "datereleased": 2002, "genere": "Comedy", "rating": 83}
 {"index": {}}
-{"moviename": "Black Hawk Down", "datereleased": 2001, "genere": "History", "rating": 74}
+{"moviename": "Black Hawk Down", "datereleased": 2001, "genere": "War", "rating": 74}
 {"index": {}}
-{"moviename": "Road to Perdition", "datereleased": 2002, "genere": "Thriller", "rating": 72}
+{"moviename": "Road to Perdition", "datereleased": 2002, "genere": "Drama", "rating": 72}
 {"index": {}}
-{"moviename": "Das Experiment", "datereleased": 2001, "genere": "Drama", "rating": 60}
+{"moviename": "Das Experiment", "datereleased": 2001, "genere": "Thriller", "rating": 60}
 {"index": {}}
 {"moviename": "Billy Elliot", "datereleased": 2000, "genere": "Music", "rating": 74}
 {"index": {}}
-{"moviename": "Hedwig and the Angry Inch", "datereleased": 2001, "genere": "Music", "rating": 85}
+{"moviename": "Hedwig and the Angry Inch", "datereleased": 2001, "genere": "Comedy", "rating": 85}
 {"index": {}}
-{"moviename": "Ocean's Eleven", "datereleased": 2001, "genere": "Thriller", "rating": 74}
+{"moviename": "Ocean's Eleven", "datereleased": 2001, "genere": "Crime", "rating": 74}
 {"index": {}}
-{"moviename": "Vampire Hunter D: Bloodlust", "datereleased": 2000, "genere": "Animation", "rating": 62}
+{"moviename": "Vampire Hunter D: Bloodlust", "datereleased": 2000, "genere": "Action", "rating": 62}
 {"index": {}}
-{"moviename": "O Brother, Where Art Thou?", "datereleased": 2000, "genere": "Adventure", "rating": 69}
+{"moviename": "O Brother, Where Art Thou?", "datereleased": 2000, "genere": "Crime", "rating": 69}
 {"index": {}}
-{"moviename": "Interstate 60: Episodes of the Road", "datereleased": 2002, "genere": "Comedy"}
+{"moviename": "Interstate 60: Episodes of the Road", "datereleased": 2002, "genere": "Drama"}
 {"index": {}}
-{"moviename": "South Park: Bigger, Longer & Uncut", "datereleased": 1999, "genere": "Comedy", "rating": 73}
+{"moviename": "South Park: Bigger, Longer & Uncut", "datereleased": 1999, "genere": "Fantasy", "rating": 73}
 {"index": {}}
 {"moviename": "Office Space", "datereleased": 1999, "genere": "Comedy", "rating": 68}
 {"index": {}}
 {"moviename": "Happiness", "datereleased": 1998, "genere": "Drama", "rating": 81}
 {"index": {}}
-{"moviename": "Training Day", "datereleased": 2001, "genere": "Crime", "rating": 69}
+{"moviename": "Training Day", "datereleased": 2001, "genere": "Drama", "rating": 69}
 {"index": {}}
-{"moviename": "Rushmore", "datereleased": 1998, "genere": "Comedy", "rating": 86}
+{"moviename": "Rushmore", "datereleased": 1998, "genere": "Romance", "rating": 86}
 {"index": {}}
-{"moviename": "Abre los ojos", "datereleased": 1997, "genere": "Mystery"}
+{"moviename": "Abre los ojos", "datereleased": 1997, "genere": "Sci-Fi"}
 {"index": {}}
-{"moviename": "Being John Malkovich", "datereleased": 1999, "genere": "Comedy", "rating": 90}
+{"moviename": "Being John Malkovich", "datereleased": 1999, "genere": "Fantasy", "rating": 90}
 {"index": {}}
-{"moviename": "As Good as It Gets", "datereleased": 1997, "genere": "Comedy", "rating": 67}
+{"moviename": "As Good as It Gets", "datereleased": 1997, "genere": "Drama", "rating": 67}
 {"index": {}}
-{"moviename": "The Fifth Element", "datereleased": 1997, "genere": "Sci-Fi", "rating": 52}
+{"moviename": "The Fifth Element", "datereleased": 1997, "genere": "Action", "rating": 52}
 {"index": {}}
 {"moviename": "Le d\u00eener de cons", "datereleased": 1998, "genere": "Comedy", "rating": 73}
 {"index": {}}
-{"moviename": "Donnie Brasco", "datereleased": 1997, "genere": "Crime", "rating": 76}
+{"moviename": "Donnie Brasco", "datereleased": 1997, "genere": "Biography", "rating": 76}
 {"index": {}}
 {"moviename": "Shine", "datereleased": 1996, "genere": "Music", "rating": 87}
 {"index": {}}
@@ -1633,19 +1633,19 @@
 {"index": {}}
 {"moviename": "Clerks", "datereleased": 1994, "genere": "Comedy", "rating": 70}
 {"index": {}}
-{"moviename": "Short Cuts", "datereleased": 1993, "genere": "Drama", "rating": 79}
+{"moviename": "Short Cuts", "datereleased": 1993, "genere": "Comedy", "rating": 79}
 {"index": {}}
 {"moviename": "Philadelphia", "datereleased": 1993, "genere": "Drama", "rating": 66}
 {"index": {}}
-{"moviename": "The Muppet Christmas Carol", "datereleased": 1992, "genere": "Family", "rating": 64}
+{"moviename": "The Muppet Christmas Carol", "datereleased": 1992, "genere": "Comedy", "rating": 64}
 {"index": {}}
 {"moviename": "Malcolm X", "datereleased": 1992, "genere": "History", "rating": 73}
 {"index": {}}
-{"moviename": "The Last of the Mohicans", "datereleased": 1992, "genere": "Adventure", "rating": 76}
+{"moviename": "The Last of the Mohicans", "datereleased": 1992, "genere": "Drama", "rating": 76}
 {"index": {}}
-{"moviename": "Kurenai no buta", "datereleased": 1992, "genere": "Comedy", "rating": 83}
+{"moviename": "Kurenai no buta", "datereleased": 1992, "genere": "Adventure", "rating": 83}
 {"index": {}}
-{"moviename": "Glengarry Glen Ross", "datereleased": 1992, "genere": "Mystery", "rating": 82}
+{"moviename": "Glengarry Glen Ross", "datereleased": 1992, "genere": "Drama", "rating": 82}
 {"index": {}}
 {"moviename": "A Few Good Men", "datereleased": 1992, "genere": "Drama", "rating": 62}
 {"index": {}}
@@ -1653,85 +1653,85 @@
 {"index": {}}
 {"moviename": "Barton Fink", "datereleased": 1991, "genere": "Drama", "rating": 69}
 {"index": {}}
-{"moviename": "Miller's Crossing", "datereleased": 1990, "genere": "Crime", "rating": 66}
+{"moviename": "Miller's Crossing", "datereleased": 1990, "genere": "Drama", "rating": 66}
 {"index": {}}
-{"moviename": "Who Framed Roger Rabbit", "datereleased": 1988, "genere": "Adventure", "rating": 83}
+{"moviename": "Who Framed Roger Rabbit", "datereleased": 1988, "genere": "Comedy", "rating": 83}
 {"index": {}}
 {"moviename": "Spoorloos", "datereleased": 1988, "genere": "Thriller"}
 {"index": {}}
 {"moviename": "Withnail & I", "datereleased": 1987, "genere": "Comedy", "rating": 84}
 {"index": {}}
-{"moviename": "The Last Emperor", "datereleased": 1987, "genere": "Drama", "rating": 76}
+{"moviename": "The Last Emperor", "datereleased": 1987, "genere": "History", "rating": 76}
 {"index": {}}
-{"moviename": "Empire of the Sun", "datereleased": 1987, "genere": "Action", "rating": 62}
+{"moviename": "Empire of the Sun", "datereleased": 1987, "genere": "History", "rating": 62}
 {"index": {}}
-{"moviename": "Der Name der Rose", "datereleased": 1986, "genere": "Crime", "rating": 54}
+{"moviename": "Der Name der Rose", "datereleased": 1986, "genere": "Mystery", "rating": 54}
 {"index": {}}
 {"moviename": "Blue Velvet", "datereleased": 1986, "genere": "Mystery", "rating": 76}
 {"index": {}}
-{"moviename": "The Purple Rose of Cairo", "datereleased": 1985, "genere": "Fantasy", "rating": 75}
+{"moviename": "The Purple Rose of Cairo", "datereleased": 1985, "genere": "Comedy", "rating": 75}
 {"index": {}}
-{"moviename": "After Hours", "datereleased": 1985, "genere": "Crime", "rating": 90}
+{"moviename": "After Hours", "datereleased": 1985, "genere": "Drama", "rating": 90}
 {"index": {}}
 {"moviename": "Zelig", "datereleased": 1983, "genere": "Comedy"}
 {"index": {}}
 {"moviename": "The Verdict", "datereleased": 1982, "genere": "Drama", "rating": 77}
 {"index": {}}
-{"moviename": "Star Trek II: The Wrath of Khan", "datereleased": 1982, "genere": "Adventure", "rating": 67}
+{"moviename": "Star Trek II: The Wrath of Khan", "datereleased": 1982, "genere": "Action", "rating": 67}
 {"index": {}}
-{"moviename": "First Blood", "datereleased": 1982, "genere": "Action", "rating": 61}
+{"moviename": "First Blood", "datereleased": 1982, "genere": "Adventure", "rating": 61}
 {"index": {}}
 {"moviename": "Ordinary People", "datereleased": 1980, "genere": "Drama", "rating": 86}
 {"index": {}}
 {"moviename": "Airplane!", "datereleased": 1980, "genere": "Comedy", "rating": 78}
 {"index": {}}
-{"moviename": "Rupan sansei: Kariosutoro no shiro", "datereleased": 1979, "genere": "Animation", "rating": 71}
+{"moviename": "Rupan sansei: Kariosutoro no shiro", "datereleased": 1979, "genere": "Adventure", "rating": 71}
 {"index": {}}
-{"moviename": "Halloween", "datereleased": 1978, "genere": "Horror", "rating": 87}
+{"moviename": "Halloween", "datereleased": 1978, "genere": "Thriller", "rating": 87}
 {"index": {}}
-{"moviename": "Le locataire", "datereleased": 1976, "genere": "Thriller", "rating": 71}
+{"moviename": "Le locataire", "datereleased": 1976, "genere": "Drama", "rating": 71}
 {"index": {}}
-{"moviename": "Love and Death", "datereleased": 1975, "genere": "Comedy", "rating": 89}
+{"moviename": "Love and Death", "datereleased": 1975, "genere": "War", "rating": 89}
 {"index": {}}
-{"moviename": "The Taking of Pelham One Two Three", "datereleased": 1974, "genere": "Thriller", "rating": 68}
+{"moviename": "The Taking of Pelham One Two Three", "datereleased": 1974, "genere": "Crime", "rating": 68}
 {"index": {}}
-{"moviename": "Blazing Saddles", "datereleased": 1974, "genere": "Western", "rating": 73}
+{"moviename": "Blazing Saddles", "datereleased": 1974, "genere": "Comedy", "rating": 73}
 {"index": {}}
 {"moviename": "Serpico", "datereleased": 1973, "genere": "Crime", "rating": 87}
 {"index": {}}
 {"moviename": "Enter the Dragon", "datereleased": 1973, "genere": "Crime", "rating": 83}
 {"index": {}}
-{"moviename": "Deliverance", "datereleased": 1972, "genere": "Drama", "rating": 80}
+{"moviename": "Deliverance", "datereleased": 1972, "genere": "Adventure", "rating": 80}
 {"index": {}}
-{"moviename": "The French Connection", "datereleased": 1971, "genere": "Crime", "rating": 94}
+{"moviename": "The French Connection", "datereleased": 1971, "genere": "Drama", "rating": 94}
 {"index": {}}
-{"moviename": "Dirty Harry", "datereleased": 1971, "genere": "Action", "rating": 90}
+{"moviename": "Dirty Harry", "datereleased": 1971, "genere": "Thriller", "rating": 90}
 {"index": {}}
-{"moviename": "Where Eagles Dare", "datereleased": 1968, "genere": "Adventure", "rating": 63}
+{"moviename": "Where Eagles Dare", "datereleased": 1968, "genere": "War", "rating": 63}
 {"index": {}}
 {"moviename": "The Odd Couple", "datereleased": 1968, "genere": "Comedy", "rating": 86}
 {"index": {}}
-{"moviename": "The Dirty Dozen", "datereleased": 1967, "genere": "Adventure", "rating": 73}
+{"moviename": "The Dirty Dozen", "datereleased": 1967, "genere": "Action", "rating": 73}
 {"index": {}}
-{"moviename": "Belle de jour", "datereleased": 1967, "genere": "Drama"}
+{"moviename": "Belle de jour", "datereleased": 1967, "genere": "Romance"}
 {"index": {}}
-{"moviename": "A Man for All Seasons", "datereleased": 1966, "genere": "Biography", "rating": 72}
+{"moviename": "A Man for All Seasons", "datereleased": 1966, "genere": "History", "rating": 72}
 {"index": {}}
 {"moviename": "Repulsion", "datereleased": 1965, "genere": "Horror", "rating": 91}
 {"index": {}}
 {"moviename": "Zulu", "datereleased": 1964, "genere": "History", "rating": 77}
 {"index": {}}
-{"moviename": "Goldfinger", "datereleased": 1964, "genere": "Thriller", "rating": 87}
+{"moviename": "Goldfinger", "datereleased": 1964, "genere": "Action", "rating": 87}
 {"index": {}}
-{"moviename": "The Birds", "datereleased": 1963, "genere": "Horror", "rating": 90}
+{"moviename": "The Birds", "datereleased": 1963, "genere": "Drama", "rating": 90}
 {"index": {}}
 {"moviename": "Cape Fear", "datereleased": 1962, "genere": "Drama", "rating": 76}
 {"index": {}}
-{"moviename": "Peeping Tom", "datereleased": 1960, "genere": "Horror"}
+{"moviename": "Peeping Tom", "datereleased": 1960, "genere": "Drama"}
 {"index": {}}
 {"moviename": "The Magnificent Seven", "datereleased": 1960, "genere": "Adventure", "rating": 74}
 {"index": {}}
-{"moviename": "Les yeux sans visage", "datereleased": 1960, "genere": "Horror", "rating": 90}
+{"moviename": "Les yeux sans visage", "datereleased": 1960, "genere": "Drama", "rating": 90}
 {"index": {}}
 {"moviename": "Invasion of the Body Snatchers", "datereleased": 1956, "genere": "Drama", "rating": 92}
 {"index": {}}
@@ -1741,21 +1741,21 @@
 {"index": {}}
 {"moviename": "Sabrina", "datereleased": 1954, "genere": "Romance", "rating": 72}
 {"index": {}}
-{"moviename": "The Quiet Man", "datereleased": 1952, "genere": "Romance"}
+{"moviename": "The Quiet Man", "datereleased": 1952, "genere": "Drama"}
 {"index": {}}
-{"moviename": "The Day the Earth Stood Still", "datereleased": 1951, "genere": "Drama"}
+{"moviename": "The Day the Earth Stood Still", "datereleased": 1951, "genere": "Sci-Fi"}
 {"index": {}}
 {"moviename": "The African Queen", "datereleased": 1951, "genere": "Adventure", "rating": 91}
 {"index": {}}
-{"moviename": "Gilda", "datereleased": 1946, "genere": "Drama"}
+{"moviename": "Gilda", "datereleased": 1946, "genere": "Film-Noir"}
 {"index": {}}
-{"moviename": "Fantasia", "datereleased": 1940, "genere": "Fantasy", "rating": 96}
+{"moviename": "Fantasia", "datereleased": 1940, "genere": "Family", "rating": 96}
 {"index": {}}
-{"moviename": "The Invisible Man", "datereleased": 1933, "genere": "Horror", "rating": 87}
+{"moviename": "The Invisible Man", "datereleased": 1933, "genere": "Sci-Fi", "rating": 87}
 {"index": {}}
-{"moviename": "Dark Waters", "datereleased": 2019, "genere": "Biography", "rating": 73}
+{"moviename": "Dark Waters", "datereleased": 2019, "genere": "Drama", "rating": 73}
 {"index": {}}
-{"moviename": "Searching", "datereleased": 2018, "genere": "Mystery", "rating": 71}
+{"moviename": "Searching", "datereleased": 2018, "genere": "Thriller", "rating": 71}
 {"index": {}}
 {"moviename": "Once Upon a Time... in Hollywood", "datereleased": 2019, "genere": "Comedy", "rating": 83}
 {"index": {}}
@@ -1767,67 +1767,67 @@
 {"index": {}}
 {"moviename": "Gifted", "datereleased": 2017, "genere": "Drama", "rating": 60}
 {"index": {}}
-{"moviename": "The Peanut Butter Falcon", "datereleased": 2019, "genere": "Adventure", "rating": 70}
+{"moviename": "The Peanut Butter Falcon", "datereleased": 2019, "genere": "Comedy", "rating": 70}
 {"index": {}}
-{"moviename": "Victoria", "datereleased": 2015, "genere": "Drama", "rating": 77}
+{"moviename": "Victoria", "datereleased": 2015, "genere": "Romance", "rating": 77}
 {"index": {}}
 {"moviename": "Mustang", "datereleased": 2015, "genere": "Drama", "rating": 83}
 {"index": {}}
-{"moviename": "Guardians of the Galaxy Vol. 2", "datereleased": 2017, "genere": "Comedy", "rating": 67}
+{"moviename": "Guardians of the Galaxy Vol. 2", "datereleased": 2017, "genere": "Action", "rating": 67}
 {"index": {}}
 {"moviename": "Baby Driver", "datereleased": 2017, "genere": "Action", "rating": 86}
 {"index": {}}
-{"moviename": "Only the Brave", "datereleased": 2017, "genere": "Biography", "rating": 72}
+{"moviename": "Only the Brave", "datereleased": 2017, "genere": "Action", "rating": 72}
 {"index": {}}
 {"moviename": "Bridge of Spies", "datereleased": 2015, "genere": "History", "rating": 81}
 {"index": {}}
-{"moviename": "Incredibles 2", "datereleased": 2018, "genere": "Animation", "rating": 80}
+{"moviename": "Incredibles 2", "datereleased": 2018, "genere": "Adventure", "rating": 80}
 {"index": {}}
-{"moviename": "Moana", "datereleased": 2016, "genere": "Animation", "rating": 81}
+{"moviename": "Moana", "datereleased": 2016, "genere": "Comedy", "rating": 81}
 {"index": {}}
 {"moviename": "Sicario", "datereleased": 2015, "genere": "Drama", "rating": 82}
 {"index": {}}
-{"moviename": "Creed", "datereleased": 2015, "genere": "Drama", "rating": 82}
+{"moviename": "Creed", "datereleased": 2015, "genere": "Sport", "rating": 82}
 {"index": {}}
 {"moviename": "Leviafan", "datereleased": 2014, "genere": "Drama", "rating": 92}
 {"index": {}}
-{"moviename": "Hell or High Water", "datereleased": 2016, "genere": "Crime", "rating": 88}
+{"moviename": "Hell or High Water", "datereleased": 2016, "genere": "Action", "rating": 88}
 {"index": {}}
 {"moviename": "Philomena", "datereleased": 2013, "genere": "Comedy", "rating": 77}
 {"index": {}}
-{"moviename": "Dawn of the Planet of the Apes", "datereleased": 2014, "genere": "Action", "rating": 79}
+{"moviename": "Dawn of the Planet of the Apes", "datereleased": 2014, "genere": "Adventure", "rating": 79}
 {"index": {}}
-{"moviename": "El cuerpo", "datereleased": 2012, "genere": "Mystery"}
+{"moviename": "El cuerpo", "datereleased": 2012, "genere": "Thriller"}
 {"index": {}}
-{"moviename": "Serbuan maut", "datereleased": 2011, "genere": "Action", "rating": 73}
+{"moviename": "Serbuan maut", "datereleased": 2011, "genere": "Thriller", "rating": 73}
 {"index": {}}
-{"moviename": "End of Watch", "datereleased": 2012, "genere": "Crime", "rating": 68}
+{"moviename": "End of Watch", "datereleased": 2012, "genere": "Action", "rating": 68}
 {"index": {}}
-{"moviename": "Kari-gurashi no Arietti", "datereleased": 2010, "genere": "Adventure", "rating": 80}
+{"moviename": "Kari-gurashi no Arietti", "datereleased": 2010, "genere": "Family", "rating": 80}
 {"index": {}}
-{"moviename": "A Star Is Born", "datereleased": 2018, "genere": "Drama", "rating": 88}
+{"moviename": "A Star Is Born", "datereleased": 2018, "genere": "Romance", "rating": 88}
 {"index": {}}
-{"moviename": "True Grit", "datereleased": 2010, "genere": "Western", "rating": 80}
+{"moviename": "True Grit", "datereleased": 2010, "genere": "Drama", "rating": 80}
 {"index": {}}
 {"moviename": "H\u00e6vnen", "datereleased": 2010, "genere": "Drama", "rating": 65}
 {"index": {}}
 {"moviename": "Despicable Me", "datereleased": 2010, "genere": "Comedy", "rating": 72}
 {"index": {}}
-{"moviename": "50/50", "datereleased": 2011, "genere": "Drama", "rating": 72}
+{"moviename": "50/50", "datereleased": 2011, "genere": "Comedy", "rating": 72}
 {"index": {}}
-{"moviename": "Kick-Ass", "datereleased": 2010, "genere": "Crime", "rating": 66}
+{"moviename": "Kick-Ass", "datereleased": 2010, "genere": "Comedy", "rating": 66}
 {"index": {}}
-{"moviename": "Celda 211", "datereleased": 2009, "genere": "Adventure"}
+{"moviename": "Celda 211", "datereleased": 2009, "genere": "Action"}
 {"index": {}}
-{"moviename": "Moneyball", "datereleased": 2011, "genere": "Biography", "rating": 87}
+{"moviename": "Moneyball", "datereleased": 2011, "genere": "Sport", "rating": 87}
 {"index": {}}
 {"moviename": "La piel que habito", "datereleased": 2011, "genere": "Thriller", "rating": 70}
 {"index": {}}
-{"moviename": "Zombieland", "datereleased": 2009, "genere": "Adventure", "rating": 73}
+{"moviename": "Zombieland", "datereleased": 2009, "genere": "Fantasy", "rating": 73}
 {"index": {}}
 {"moviename": "Die Welle", "datereleased": 2008, "genere": "Thriller"}
 {"index": {}}
-{"moviename": "Sherlock Holmes", "datereleased": 2009, "genere": "Mystery", "rating": 57}
+{"moviename": "Sherlock Holmes", "datereleased": 2009, "genere": "Adventure", "rating": 57}
 {"index": {}}
 {"moviename": "The Blind Side", "datereleased": 2009, "genere": "Biography", "rating": 53}
 {"index": {}}
@@ -1835,33 +1835,33 @@
 {"index": {}}
 {"moviename": "Seven Pounds", "datereleased": 2008, "genere": "Drama", "rating": 36}
 {"index": {}}
-{"moviename": "Eastern Promises", "datereleased": 2007, "genere": "Action", "rating": 82}
+{"moviename": "Eastern Promises", "datereleased": 2007, "genere": "Drama", "rating": 82}
 {"index": {}}
 {"moviename": "Stardust", "datereleased": 2007, "genere": "Family", "rating": 66}
 {"index": {}}
-{"moviename": "The Secret of Kells", "datereleased": 2009, "genere": "Adventure", "rating": 81}
+{"moviename": "The Secret of Kells", "datereleased": 2009, "genere": "Family", "rating": 81}
 {"index": {}}
-{"moviename": "Inside Man", "datereleased": 2006, "genere": "Mystery", "rating": 76}
+{"moviename": "Inside Man", "datereleased": 2006, "genere": "Drama", "rating": 76}
 {"index": {}}
-{"moviename": "Gone Baby Gone", "datereleased": 2007, "genere": "Drama", "rating": 72}
+{"moviename": "Gone Baby Gone", "datereleased": 2007, "genere": "Crime", "rating": 72}
 {"index": {}}
-{"moviename": "La Vie En Rose", "datereleased": 2007, "genere": "Drama", "rating": 66}
+{"moviename": "La Vie En Rose", "datereleased": 2007, "genere": "Music", "rating": 66}
 {"index": {}}
-{"moviename": "Huo Yuan Jia", "datereleased": 2006, "genere": "Biography", "rating": 70}
+{"moviename": "Huo Yuan Jia", "datereleased": 2006, "genere": "Action", "rating": 70}
 {"index": {}}
-{"moviename": "The Illusionist", "datereleased": 2006, "genere": "Drama", "rating": 68}
+{"moviename": "The Illusionist", "datereleased": 2006, "genere": "Mystery", "rating": 68}
 {"index": {}}
-{"moviename": "Dead Man's Shoes", "datereleased": 2004, "genere": "Crime", "rating": 52}
+{"moviename": "Dead Man's Shoes", "datereleased": 2004, "genere": "Drama", "rating": 52}
 {"index": {}}
-{"moviename": "Harry Potter and the Half-Blood Prince", "datereleased": 2009, "genere": "Action", "rating": 78}
+{"moviename": "Harry Potter and the Half-Blood Prince", "datereleased": 2009, "genere": "Adventure", "rating": 78}
 {"index": {}}
 {"moviename": "300", "datereleased": 2006, "genere": "Action", "rating": 52}
 {"index": {}}
-{"moviename": "Match Point", "datereleased": 2005, "genere": "Romance", "rating": 72}
+{"moviename": "Match Point", "datereleased": 2005, "genere": "Drama", "rating": 72}
 {"index": {}}
-{"moviename": "Watchmen", "datereleased": 2009, "genere": "Action", "rating": 56}
+{"moviename": "Watchmen", "datereleased": 2009, "genere": "Mystery", "rating": 56}
 {"index": {}}
-{"moviename": "Lord of War", "datereleased": 2005, "genere": "Crime", "rating": 62}
+{"moviename": "Lord of War", "datereleased": 2005, "genere": "Action", "rating": 62}
 {"index": {}}
 {"moviename": "Saw", "datereleased": 2004, "genere": "Horror", "rating": 46}
 {"index": {}}
@@ -1869,9 +1869,9 @@
 {"index": {}}
 {"moviename": "Mysterious Skin", "datereleased": 2004, "genere": "Drama", "rating": 73}
 {"index": {}}
-{"moviename": "Jeux d'enfants", "datereleased": 2003, "genere": "Drama", "rating": 45}
+{"moviename": "Jeux d'enfants", "datereleased": 2003, "genere": "Romance", "rating": 45}
 {"index": {}}
-{"moviename": "Un long dimanche de fian\u00e7ailles", "datereleased": 2004, "genere": "Drama", "rating": 76}
+{"moviename": "Un long dimanche de fian\u00e7ailles", "datereleased": 2004, "genere": "Mystery", "rating": 76}
 {"index": {}}
 {"moviename": "The Station Agent", "datereleased": 2003, "genere": "Drama", "rating": 81}
 {"index": {}}
@@ -1879,63 +1879,63 @@
 {"index": {}}
 {"moviename": "Boksuneun naui geot", "datereleased": 2002, "genere": "Thriller", "rating": 56}
 {"index": {}}
-{"moviename": "Finding Neverland", "datereleased": 2004, "genere": "Drama", "rating": 67}
+{"moviename": "Finding Neverland", "datereleased": 2004, "genere": "Family", "rating": 67}
 {"index": {}}
 {"moviename": "25th Hour", "datereleased": 2002, "genere": "Drama", "rating": 68}
 {"index": {}}
 {"moviename": "The Butterfly Effect", "datereleased": 2004, "genere": "Drama", "rating": 30}
 {"index": {}}
-{"moviename": "28 Days Later...", "datereleased": 2002, "genere": "Horror", "rating": 73}
+{"moviename": "28 Days Later...", "datereleased": 2002, "genere": "Sci-Fi", "rating": 73}
 {"index": {}}
-{"moviename": "Batoru rowaiaru", "datereleased": 2000, "genere": "Adventure", "rating": 81}
+{"moviename": "Batoru rowaiaru", "datereleased": 2000, "genere": "Action", "rating": 81}
 {"index": {}}
-{"moviename": "The Royal Tenenbaums", "datereleased": 2001, "genere": "Comedy", "rating": 76}
+{"moviename": "The Royal Tenenbaums", "datereleased": 2001, "genere": "Drama", "rating": 76}
 {"index": {}}
 {"moviename": "Y tu mam\u00e1 tambi\u00e9n", "datereleased": 2001, "genere": "Drama", "rating": 88}
 {"index": {}}
-{"moviename": "Harry Potter and the Sorcerer's Stone", "datereleased": 2001, "genere": "Adventure", "rating": 64}
+{"moviename": "Harry Potter and the Sorcerer's Stone", "datereleased": 2001, "genere": "Fantasy", "rating": 64}
 {"index": {}}
 {"moviename": "The Others", "datereleased": 2001, "genere": "Thriller", "rating": 74}
 {"index": {}}
 {"moviename": "Blow", "datereleased": 2001, "genere": "Drama", "rating": 52}
 {"index": {}}
-{"moviename": "Enemy at the Gates", "datereleased": 2001, "genere": "War", "rating": 53}
+{"moviename": "Enemy at the Gates", "datereleased": 2001, "genere": "History", "rating": 53}
 {"index": {}}
-{"moviename": "Minority Report", "datereleased": 2002, "genere": "Crime", "rating": 80}
+{"moviename": "Minority Report", "datereleased": 2002, "genere": "Action", "rating": 80}
 {"index": {}}
 {"moviename": "The Hurricane", "datereleased": 1999, "genere": "Sport", "rating": 74}
 {"index": {}}
-{"moviename": "American Psycho", "datereleased": 2000, "genere": "Crime", "rating": 64}
+{"moviename": "American Psycho", "datereleased": 2000, "genere": "Drama", "rating": 64}
 {"index": {}}
 {"moviename": "Lola rennt", "datereleased": 1998, "genere": "Thriller", "rating": 77}
 {"index": {}}
-{"moviename": "The Thin Red Line", "datereleased": 1998, "genere": "War", "rating": 78}
+{"moviename": "The Thin Red Line", "datereleased": 1998, "genere": "Drama", "rating": 78}
 {"index": {}}
-{"moviename": "Mulan", "datereleased": 1998, "genere": "Family", "rating": 71}
+{"moviename": "Mulan", "datereleased": 1998, "genere": "Animation", "rating": 71}
 {"index": {}}
-{"moviename": "Fear and Loathing in Las Vegas", "datereleased": 1998, "genere": "Adventure", "rating": 41}
+{"moviename": "Fear and Loathing in Las Vegas", "datereleased": 1998, "genere": "Comedy", "rating": 41}
 {"index": {}}
-{"moviename": "Funny Games", "datereleased": 1997, "genere": "Drama", "rating": 69}
+{"moviename": "Funny Games", "datereleased": 1997, "genere": "Crime", "rating": 69}
 {"index": {}}
-{"moviename": "Dark City", "datereleased": 1998, "genere": "Thriller", "rating": 66}
+{"moviename": "Dark City", "datereleased": 1998, "genere": "Mystery", "rating": 66}
 {"index": {}}
-{"moviename": "Sleepers", "datereleased": 1996, "genere": "Crime", "rating": 49}
+{"moviename": "Sleepers", "datereleased": 1996, "genere": "Thriller", "rating": 49}
 {"index": {}}
-{"moviename": "Lost Highway", "datereleased": 1997, "genere": "Thriller", "rating": 52}
+{"moviename": "Lost Highway", "datereleased": 1997, "genere": "Mystery", "rating": 52}
 {"index": {}}
 {"moviename": "Sense and Sensibility", "datereleased": 1995, "genere": "Drama", "rating": 84}
 {"index": {}}
-{"moviename": "Die Hard: With a Vengeance", "datereleased": 1995, "genere": "Action", "rating": 58}
+{"moviename": "Die Hard: With a Vengeance", "datereleased": 1995, "genere": "Thriller", "rating": 58}
 {"index": {}}
 {"moviename": "Dead Man", "datereleased": 1995, "genere": "Adventure", "rating": 62}
 {"index": {}}
-{"moviename": "The Bridges of Madison County", "datereleased": 1995, "genere": "Drama", "rating": 69}
+{"moviename": "The Bridges of Madison County", "datereleased": 1995, "genere": "Romance", "rating": 69}
 {"index": {}}
 {"moviename": "Apollo 13", "genere": "Drama", "rating": 77}
 {"index": {}}
-{"moviename": "Trois couleurs: Blanc", "datereleased": 1994, "genere": "Romance", "rating": 88}
+{"moviename": "Trois couleurs: Blanc", "datereleased": 1994, "genere": "Drama", "rating": 88}
 {"index": {}}
-{"moviename": "Falling Down", "datereleased": 1993, "genere": "Crime", "rating": 56}
+{"moviename": "Falling Down", "datereleased": 1993, "genere": "Drama", "rating": 56}
 {"index": {}}
 {"moviename": "Dazed and Confused", "datereleased": 1993, "genere": "Comedy", "rating": 78}
 {"index": {}}
@@ -1943,39 +1943,39 @@
 {"index": {}}
 {"moviename": "Omohide poro poro", "datereleased": 1991, "genere": "Drama", "rating": 90}
 {"index": {}}
-{"moviename": "Delicatessen", "datereleased": 1991, "genere": "Comedy", "rating": 66}
+{"moviename": "Delicatessen", "datereleased": 1991, "genere": "Crime", "rating": 66}
 {"index": {}}
-{"moviename": "Home Alone", "datereleased": 1990, "genere": "Family", "rating": 63}
+{"moviename": "Home Alone", "datereleased": 1990, "genere": "Comedy", "rating": 63}
 {"index": {}}
 {"moviename": "The Godfather: Part III", "datereleased": 1990, "genere": "Drama", "rating": 60}
 {"index": {}}
-{"moviename": "When Harry Met Sally...", "datereleased": 1989, "genere": "Drama", "rating": 76}
+{"moviename": "When Harry Met Sally...", "datereleased": 1989, "genere": "Romance", "rating": 76}
 {"index": {}}
-{"moviename": "The Little Mermaid", "datereleased": 1989, "genere": "Fantasy", "rating": 88}
+{"moviename": "The Little Mermaid", "datereleased": 1989, "genere": "Family", "rating": 88}
 {"index": {}}
-{"moviename": "The Naked Gun: From the Files of Police Squad!", "datereleased": 1988, "genere": "Crime", "rating": 76}
+{"moviename": "The Naked Gun: From the Files of Police Squad!", "datereleased": 1988, "genere": "Comedy", "rating": 76}
 {"index": {}}
 {"moviename": "Planes, Trains & Automobiles", "datereleased": 1987, "genere": "Drama", "rating": 72}
 {"index": {}}
-{"moviename": "Lethal Weapon", "datereleased": 1987, "genere": "Crime", "rating": 68}
+{"moviename": "Lethal Weapon", "datereleased": 1987, "genere": "Thriller", "rating": 68}
 {"index": {}}
 {"moviename": "Blood Simple", "datereleased": 1984, "genere": "Thriller", "rating": 82}
 {"index": {}}
 {"moviename": "On Golden Pond", "datereleased": 1981, "genere": "Drama", "rating": 68}
 {"index": {}}
-{"moviename": "Mad Max 2", "datereleased": 1981, "genere": "Adventure", "rating": 77}
+{"moviename": "Mad Max 2", "datereleased": 1981, "genere": "Action", "rating": 77}
 {"index": {}}
-{"moviename": "The Warriors", "datereleased": 1979, "genere": "Thriller", "rating": 65}
+{"moviename": "The Warriors", "datereleased": 1979, "genere": "Crime", "rating": 65}
 {"index": {}}
-{"moviename": "The Muppet Movie", "datereleased": 1979, "genere": "Family", "rating": 74}
+{"moviename": "The Muppet Movie", "datereleased": 1979, "genere": "Comedy", "rating": 74}
 {"index": {}}
-{"moviename": "Escape from Alcatraz", "datereleased": 1979, "genere": "Biography", "rating": 76}
+{"moviename": "Escape from Alcatraz", "datereleased": 1979, "genere": "Crime", "rating": 76}
 {"index": {}}
-{"moviename": "Watership Down", "datereleased": 1978, "genere": "Adventure", "rating": 64}
+{"moviename": "Watership Down", "datereleased": 1978, "genere": "Animation", "rating": 64}
 {"index": {}}
 {"moviename": "Midnight Express", "datereleased": 1978, "genere": "Crime", "rating": 59}
 {"index": {}}
-{"moviename": "Close Encounters of the Third Kind", "datereleased": 1977, "genere": "Sci-Fi", "rating": 90}
+{"moviename": "Close Encounters of the Third Kind", "datereleased": 1977, "genere": "Drama", "rating": 90}
 {"index": {}}
 {"moviename": "The Long Goodbye", "datereleased": 1973, "genere": "Drama", "rating": 87}
 {"index": {}}
@@ -1983,17 +1983,17 @@
 {"index": {}}
 {"moviename": "Kelly's Heroes", "datereleased": 1970, "genere": "War", "rating": 50}
 {"index": {}}
-{"moviename": "The Jungle Book", "datereleased": 1967, "genere": "Adventure", "rating": 65}
+{"moviename": "The Jungle Book", "datereleased": 1967, "genere": "Animation", "rating": 65}
 {"index": {}}
 {"moviename": "Blowup", "datereleased": 1966, "genere": "Drama", "rating": 82}
 {"index": {}}
 {"moviename": "A Hard Day's Night", "datereleased": 1964, "genere": "Comedy", "rating": 96}
 {"index": {}}
-{"moviename": "Breakfast at Tiffany's", "datereleased": 1961, "genere": "Romance", "rating": 76}
+{"moviename": "Breakfast at Tiffany's", "datereleased": 1961, "genere": "Comedy", "rating": 76}
 {"index": {}}
 {"moviename": "Giant", "datereleased": 1956, "genere": "Drama", "rating": 84}
 {"index": {}}
-{"moviename": "From Here to Eternity", "datereleased": 1953, "genere": "Drama", "rating": 85}
+{"moviename": "From Here to Eternity", "datereleased": 1953, "genere": "War", "rating": 85}
 {"index": {}}
 {"moviename": "Lifeboat", "datereleased": 1944, "genere": "Drama", "rating": 78}
 {"index": {}}
