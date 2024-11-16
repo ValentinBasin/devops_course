@@ -1,7 +1,6 @@
 version: '3'
 
-
-services: 
+services:
   mongodb:
     image: "mongo"
     environment:
@@ -28,14 +27,12 @@ services:
     depends_on:
       - mongodb
 
-
 volumes:
   db-data:
     driver: local
 
   configdb-data:
     driver: local
-
 
 networks:
   mongo-network:
