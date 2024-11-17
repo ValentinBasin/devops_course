@@ -2,4 +2,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-
+__pycache__
+.pyc
+venv
+.venv
