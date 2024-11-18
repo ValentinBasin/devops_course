@@ -1,0 +1,29 @@
+version: '3.8'
+
+include:
+  - ./elk/docker-compose.yml
+  - ./elk/filebeat-compose.yml
+
+services:
+  python_app:
+    build: ./python
+    volumes:
+      - ./python/app.log:/app/app.log
+    ports:
+      - 8000:5000
+
+  mongo:
+    image: mongo
+    ports:
+      - 27017:27017
+    volumes:
+      - "mongo_data:/data/db"
+      - "mongo_config:/data/configdb"
+
+configs:
+  filebeat_conf:
+    file: ./filebeat/filebeat.docker.yml
+
+volumes:
+  mongo_data:
+  mongo_config:

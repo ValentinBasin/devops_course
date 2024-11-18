@@ -1,0 +1,89 @@
+{"timestamp": "2024-11-18 12:52:49,314", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.188:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 12:52:49,315", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 12:53:17,781", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.178.188:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 12:53:17,785", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 12:53:24,041", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-18 12:53:24,044", "endpoint": "127.0.0.1 - - [18/Nov/2024 12:53:24] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 16:41:08,004", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 16:41:08,004", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 16:41:13,928", "endpoint": "/", "status_code": "INFO"}
+{"timestamp": "2024-11-18 16:41:13,929", "endpoint": "192.168.65.1 - - [18/Nov/2024 16:41:13] "GET / HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 16:41:19,336", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-18 16:41:19,337", "endpoint": "192.168.65.1 - - [18/Nov/2024 16:41:19] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 16:41:47,055", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-18 16:41:47,056", "endpoint": "192.168.65.1 - - [18/Nov/2024 16:41:47] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 16:41:50,193", "endpoint": "/", "status_code": "INFO"}
+{"timestamp": "2024-11-18 16:41:50,194", "endpoint": "192.168.65.1 - - [18/Nov/2024 16:41:50] "GET / HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:05:03,279", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:05:03,279", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:08:46,453", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:08:46,454", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:14:45,245", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:14:45,246", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:30:50,311", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:30:50,313", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:35:23,587", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:35:23,591", "endpoint": "192.168.65.1 - - [18/Nov/2024 17:35:23] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:43:57,967", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:43:57,967", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:49:51,894", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:49:51,895", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:51:20,868", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:51:20,869", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:58:26,001", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.2:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:58:26,005", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:58:37,153", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:58:37,155", "endpoint": "192.168.65.1 - - [18/Nov/2024 17:58:37] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:58:40,579", "endpoint": "/", "status_code": "INFO"}
+{"timestamp": "2024-11-18 17:58:40,580", "endpoint": "192.168.65.1 - - [18/Nov/2024 17:58:40] "GET / HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:06:04,315", "endpoint": "/", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:06:04,317", "endpoint": "192.168.65.1 - - [18/Nov/2024 18:06:04] "GET / HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:06:08,071", "endpoint": "192.168.65.1 - - [18/Nov/2024 18:06:08] "[33mGET /datra HTTP/1.1[0m" 404 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:06:13,090", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:06:13,092", "endpoint": "192.168.65.1 - - [18/Nov/2024 18:06:13] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:15:19,581", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:15:19,585", "endpoint": "192.168.65.1 - - [18/Nov/2024 18:15:19] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:15:24,934", "endpoint": "/", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:15:24,935", "endpoint": "192.168.65.1 - - [18/Nov/2024 18:15:24] "GET / HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:21:28,128", "endpoint": "/", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:21:28,131", "endpoint": "192.168.65.1 - - [18/Nov/2024 18:21:28] "GET / HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:21:36,845", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:21:36,846", "endpoint": "192.168.65.1 - - [18/Nov/2024 18:21:36] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:39:23,514", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.3:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-18 18:39:23,532", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}

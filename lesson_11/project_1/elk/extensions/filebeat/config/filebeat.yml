@@ -1,0 +1,66 @@
+## Filebeat configuration
+## https://github.com/elastic/beats/blob/main/deploy/docker/filebeat.docker.yml
+#
+
+name: filebeat
+
+filebeat.config:
+  modules:
+    path: ${path.config}/modules.d/*.yml
+    reload.enabled: false
+
+filebeat.inputs:
+# filestream is an input for collecting log messages from files.
+- type: filestream
+
+  # Unique ID among all inputs, an ID is required.
+  id: flask-logs
+
+  # Change to true to enable this input configuration.
+  enabled: true
+
+  # Paths that should be crawled and fetched. Glob based paths.
+  paths:
+    - /usr/share/filebeat/data/app.log
+
+
+processors:
+  - decode_json_fields:
+      fields: ["message"]
+      target: ""
+ 
+setup:
+  template:
+    name: "flask_logs_template"
+    pattern: "flask-logs*"
+    overwrite: false
+  ilm:
+    enabled: true
+    policy_name: "flask_logs_policy"
+
+setup.template.settings:
+  index.number_of_shards: 1
+ 
+
+output.elasticsearch:
+  # Array of hosts to connect to.
+  hosts: ["elasticsearch:9200"]
+
+  # Performance preset - one of "balanced", "throughput", "scale",
+  # "latency", or "custom".
+  #preset: balanced
+
+  # Protocol - either `http` (default) or `https`.
+  protocol: "http"
+
+  # Authentication credentials - either API key or username/password.
+  #api_key: "id:api_key"
+  username: "elastic"
+  password: "changeme"
+  index: flask-logs-%{[agent.version]}
+
+
+
+## HTTP endpoint for health checking
+## https://www.elastic.co/guide/en/beats/filebeat/current/http-endpoint.html
+#
