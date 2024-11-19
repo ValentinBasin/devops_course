@@ -12,7 +12,7 @@ filebeat.config:
 filebeat.inputs:
 # filestream is an input for collecting log messages from files.
 - type: filestream
-
+# - type: log
   # Unique ID among all inputs, an ID is required.
   id: flask-logs
 
@@ -23,11 +23,15 @@ filebeat.inputs:
   paths:
     - /usr/share/filebeat/data/app.log
 
+  # json.keys_under_root: true
+  # json.add_error_key: true
+
 
 processors:
   - decode_json_fields:
       fields: ["message"]
       target: ""
+      add_error_key: true
  
 setup:
   template:
@@ -60,6 +64,8 @@ output.elasticsearch:
   index: flask-logs-%{[agent.version]}
 
 
+# output.console:
+#   pretty: true
 
 ## HTTP endpoint for health checking
 ## https://www.elastic.co/guide/en/beats/filebeat/current/http-endpoint.html
