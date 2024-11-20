@@ -373,3 +373,106 @@
 {"timestamp": "2024-11-19 14:47:16,424", "endpoint": "192.168.65.1 - - [19/Nov/2024 14:47:16] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
 {"timestamp": "2024-11-19 14:47:16,892", "endpoint": "/data", "status_code": "INFO"}
 {"timestamp": "2024-11-19 14:47:16,893", "endpoint": "192.168.65.1 - - [19/Nov/2024 14:47:16] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:23,558", "endpoint": "[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:23,561", "endpoint": "[33mPress CTRL+C to quit[0m", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:33,954", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:33,982", "endpoint": "192.168.65.1 - - [20/Nov/2024 10:18:33] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:35,011", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:35,011", "endpoint": "192.168.65.1 - - [20/Nov/2024 10:18:35] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:36,970", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:36,978", "endpoint": "192.168.65.1 - - [20/Nov/2024 10:18:36] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:37,171", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:37,171", "endpoint": "192.168.65.1 - - [20/Nov/2024 10:18:37] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:37,351", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:37,352", "endpoint": "192.168.65.1 - - [20/Nov/2024 10:18:37] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:37,513", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 10:18:37,513", "endpoint": "192.168.65.1 - - [20/Nov/2024 10:18:37] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:55,380", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:55,385", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:55] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:55,762", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:55,763", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:55] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:55,973", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:55,974", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:55] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,128", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,129", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:56] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,300", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,301", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:56] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,475", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,476", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:56] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,634", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,635", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:56] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,797", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,798", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:56] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,958", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:56,958", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:56] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,120", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,120", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:57] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,290", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,291", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:57] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,448", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,449", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:57] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,613", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,614", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:57] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,790", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,791", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:57] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,956", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:57,957", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:57] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,129", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,130", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:58] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,298", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,299", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:58] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,483", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,484", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:58] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,650", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,650", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:58] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,817", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,817", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:58] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,986", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:58,987", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:58] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,147", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,147", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:59] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,315", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,316", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:59] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,488", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,489", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:59] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,653", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,657", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:59] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,805", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,806", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:59] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,968", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:28:59,969", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:28:59] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:18,229", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:18,233", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:18] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:18,582", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:18,582", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:18] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:18,817", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:18,817", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:18] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:18,987", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:18,987", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:18] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:19,153", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:19,154", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:19] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:19,322", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:19,323", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:19] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:19,492", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:19,493", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:19] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:19,661", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:19,662", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:19] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:19,845", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:19,846", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:19] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,023", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,023", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:20] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,206", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,206", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:20] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,376", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,377", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:20] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,563", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,564", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:20] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,742", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,743", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:20] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,927", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:20,927", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:20] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:21,107", "endpoint": "/data", "status_code": "INFO"}
+{"timestamp": "2024-11-20 12:49:21,107", "endpoint": "192.168.65.1 - - [20/Nov/2024 12:49:21] "GET /data HTTP/1.1" 200 -", "status_code": "INFO"}

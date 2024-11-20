@@ -20,10 +20,6 @@ services:
       - "mongo_data:/data/db"
       - "mongo_config:/data/configdb"
 
-configs:
-  filebeat_conf:
-    file: ./filebeat/filebeat.docker.yml
-
 volumes:
   mongo_data:
   mongo_config:
