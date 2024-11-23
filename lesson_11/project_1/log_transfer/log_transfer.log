@@ -11,3 +11,9 @@
 [2024-11-20 17:52:25.266]      mongo:30  INFO    - Timestamp of latest doc in Database is 2024-11-20T12:49:21.949Z
 [2024-11-20 17:52:25.273] _transport:349 INFO    - POST http://localhost:9200/flask-logs-8.15.3/_search [status:200 duration:0.006s]
 [2024-11-20 17:52:25.273]    elastic:13  INFO    - Got 0 new docs
+[2024-11-21 16:58:56.119]       main:12  INFO    - Starting Logs transfer script
+[2024-11-21 17:00:03.210]       main:12  INFO    - Starting Logs transfer script
+[2024-11-21 17:00:03.216]      mongo:30  INFO    - Timestamp of latest doc in Database is 2024-11-20T12:49:21.949Z
+[2024-11-21 17:00:03.231] _transport:349 INFO    - POST http://localhost:9200/flask-logs-8.15.3/_search [status:200 duration:0.014s]
+[2024-11-21 17:00:03.232]    elastic:13  INFO    - Got 282 new docs
+[2024-11-21 17:00:03.239]      mongo:24  INFO    - 282 new docs added to database
