@@ -1,0 +1,95 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    deployment.kubernetes.io/revision: "2"
+  creationTimestamp: "2024-11-26T15:25:41Z"
+  generation: 2
+  labels:
+    app: spring-music
+  name: spring-music
+  namespace: default
+  resourceVersion: "4338"
+  uid: b42a95f4-754b-430b-8055-96ad58a1afac
+spec:
+  progressDeadlineSeconds: 600
+  replicas: 3
+  revisionHistoryLimit: 10
+  selector:
+    matchLabels:
+      app: spring-music
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: spring-music
+    spec:
+      containers:
+      - image: zudin116/spring-music:latest
+        imagePullPolicy: Always
+        name: spring-music
+        ports:
+        - containerPort: 8080
+          protocol: TCP
+        resources: {}
+        terminationMessagePath: /dev/termination-log
+        terminationMessagePolicy: File
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      schedulerName: default-scheduler
+      securityContext: {}
+      terminationGracePeriodSeconds: 30
+status:
+  availableReplicas: 3
+  conditions:
+  - lastTransitionTime: "2024-11-26T15:28:33Z"
+    lastUpdateTime: "2024-11-26T15:28:33Z"
+    message: Deployment has minimum availability.
+    reason: MinimumReplicasAvailable
+    status: "True"
+    type: Available
+  - lastTransitionTime: "2024-11-26T15:25:41Z"
+    lastUpdateTime: "2024-11-26T15:28:43Z"
+    message: ReplicaSet "spring-music-8467686b5" has successfully progressed.
+    reason: NewReplicaSetAvailable
+    status: "True"
+    type: Progressing
+  observedGeneration: 2
+  readyReplicas: 3
+  replicas: 3
+  updatedReplicas: 3
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  creationTimestamp: "2024-11-26T15:31:54Z"
+  labels:
+    app: spring-music
+  name: spring-music
+  namespace: default
+  resourceVersion: "4494"
+  uid: ba0a760d-02a1-4711-9f24-5dd03f94a290
+spec:
+  clusterIP: 10.107.35.154
+  clusterIPs:
+  - 10.107.35.154
+  internalTrafficPolicy: Cluster
+  ipFamilies:
+  - IPv4
+  ipFamilyPolicy: SingleStack
+  ports:
+  - port: 8080
+    protocol: TCP
+    targetPort: 8080
+  selector:
+    app: spring-music
+  sessionAffinity: None
+  type: ClusterIP
+status:
+  loadBalancer: {}

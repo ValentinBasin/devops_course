@@ -1,0 +1,17 @@
+# https://kubernetes.io/docs/concepts/services-networking/service/
+apiVersion: v1
+kind: Service
+metadata:
+  name: snowflake
+  namespace: default
+spec:
+  selector:
+    app: snowflake
+  type: ClusterIP
+  ports:
+  - name: snowflake
+    protocol: 
+    port: 80
+    targetPort: 80
+---
+

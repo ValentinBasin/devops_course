@@ -1,0 +1,60 @@
+# https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: animals
+  namespace: default
+  labels:
+    app: animals
+spec:
+  selector:
+    matchLabels:
+      app: animals
+  replicas: 4
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      annotations:
+        kubectl.kubernetes.io/default-container:  animals
+      labels:
+        app: animals
+    spec:
+      nodeSelector:
+        team: red
+      containers:
+      - name: animals
+        image: supergiantkir/animals:bear
+        imagePullPolicy: IfNotPresent
+        resources:
+          requests:
+            cpu: 100m
+            memory: 100Mi
+          limits:
+            cpu: 100m
+            memory: 100Mi
+        ports:
+        - containerPort: 80
+          name: animals
+      restartPolicy: Always
+---
+# https://kubernetes.io/docs/concepts/services-networking/service/
+apiVersion: v1
+kind: Service
+metadata:
+  name: animals
+  namespace: default
+spec:
+  selector:
+    app: animals
+  type: LoadBalancer
+  ports:
+  - name: animals
+    protocol: TCP
+    port: 80
+    targetPort: 80
+---
+

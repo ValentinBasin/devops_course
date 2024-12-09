@@ -1,0 +1,17 @@
+# https://kubernetes.io/docs/concepts/services-networking/service/
+apiVersion: v1
+kind: Service
+metadata:
+  name: cattle
+  namespace: default
+spec:
+  selector:
+    app: cattle
+  type: ClusterIP
+  ports:
+  - name: cattle
+    protocol: 
+    port: 80
+    targetPort: 80
+---
+

@@ -1,0 +1,20 @@
+# https://kubernetes.io/docs/concepts/workloads/pods/
+apiVersion: v1
+kind: Pod
+metadata:
+  name: "pvc-pod"
+spec:
+  containers:
+  - image: "busybox:latest"
+    name: pvc-pod
+    command: ["/bin/sh", "-c"]
+    args: ["echo Kubernetes Storage > /mnt/data/message.txt; sleep 3600"]
+    volumeMounts:
+      - name: storage
+        mountPath: /mnt/data
+  volumes:
+    - name: storage
+      persistentVolumeClaim:
+        claimName: pvc-example
+---
+

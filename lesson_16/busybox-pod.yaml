@@ -1,0 +1,15 @@
+# https://kubernetes.io/docs/concepts/workloads/pods/
+apiVersion: v1
+kind: Pod
+metadata:
+  name: "busybox"
+  namespace: development
+spec:
+  containers:
+  - image: "busybox:latest"
+    name: busybox
+    command: 
+      - sleep
+      - "3600"
+---
+

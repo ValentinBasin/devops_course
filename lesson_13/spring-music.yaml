@@ -1,0 +1,54 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: spring-music
+  name: spring-music
+spec:
+  replicas: 3
+  revisionHistoryLimit: 10
+  selector:
+    matchLabels:
+      app: spring-music
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: spring-music
+    spec:
+      containers:
+      - image: zudin116/spring-music:latest
+        imagePullPolicy: Always
+        name: spring-music
+        ports:
+        - containerPort: 8080
+          protocol: TCP
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: spring-music
+  name: spring-music
+  namespace: default
+spec:
+  clusterIP: 10.107.35.154
+  clusterIPs:
+  - 10.107.35.154
+  internalTrafficPolicy: Cluster
+  ipFamilies:
+  - IPv4
+  ipFamilyPolicy: SingleStack
+  ports:
+  - port: 8080
+    protocol: TCP
+    targetPort: 8080
+  selector:
+    app: spring-music
+  type: ClusterIP
