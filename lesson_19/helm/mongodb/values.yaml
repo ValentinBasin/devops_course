@@ -1,0 +1,3 @@
+name: "mongo-db"
+replicas: 1
+port: 27017

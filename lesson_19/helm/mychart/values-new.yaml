@@ -1,0 +1,4 @@
+favorit: 
+  drink: "whiskey"
+database:
+  url: "https://artifacthub.io/packages/helm/bitnami/mysql?modal=template&template=secondary/statefulset.yaml"

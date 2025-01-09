@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ .Values.mongoex.service.name }}
+  namespace: default
+spec:
+  selector:
+    app: {{ .Values.mongoex.appName }}
+  type: NodePort
+  ports:
+  - name: {{ .Values.mongoex.service.name }}
+    protocol: 
+    port: {{ .Values.mongoex.deployment.port }}
+    targetPort: 8081

@@ -1,0 +1,13 @@
+# https://kubernetes.io/docs/concepts/configuration/configmap/
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ .Release.Name }}-config
+data:
+{{ if eq .Values.favorit.drink "coffee" }}
+  myvalue: {{ .Values.favorit.drink | title | quote }}
+{{ else }}
+  myvalue: {{ .Values.favorit.drink }}{{ end }} 
+  database_url: {{ .Values.database.url}}
+---
+

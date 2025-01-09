@@ -10,7 +10,7 @@ spec:
   selector:
     matchLabels:
       app: animals
-  replicas: 4
+  replicas: 3
   strategy:
     rollingUpdate:
       maxSurge: 25%
@@ -23,14 +23,19 @@ spec:
       labels:
         app: animals
     spec:
+      tolerations:
+        - key: "env"
+          operator: "Equal"
+          value: "production"
+          effect: "NoSchedule"
       affinity:
         nodeAffinity:
           requiredDuringSchedulingIgnoredDuringExecution:
             nodeSelectorTerms:
             - matchExpressions:
-                - key: rank
-                  operator: Lt
-                  values: 5
+              - key: rank
+                operator: Gt
+                values: ["1"]
       containers:
       - name: animals
         image: supergiantkir/animals:bear

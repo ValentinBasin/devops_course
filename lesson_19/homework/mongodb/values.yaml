@@ -1,0 +1,24 @@
+mongodb:
+  appName: "mongodb"
+  deployment:
+    name: "mongodb-deploy"
+    replicas: 1
+    port: 27017
+  pvc:
+    name: "mongodb-pvc"
+    size: "1Gi"
+  storageClass:
+    name: "minikube-storage"
+    provisioner: "kubernetes.io/no-provisioner"
+  service:
+    name: "mongodb-service"
+
+mongoex:
+  appName: "mongo-express"
+  deployment:
+    name: "mongoex-deploy"
+    replicas: 1
+    port: 8080
+  service:
+    name: "mongoex-service"
+

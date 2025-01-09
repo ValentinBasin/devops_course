@@ -2,15 +2,15 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: animals
+  name: api-app
   namespace: default
   labels:
-    app: animals
+    app: api-app
 spec:
   selector:
     matchLabels:
-      app: animals
-  replicas: 4
+      app: api-app
+  replicas: 2
   strategy:
     rollingUpdate:
       maxSurge: 25%
@@ -19,21 +19,22 @@ spec:
   template:
     metadata:
       annotations:
-        kubectl.kubernetes.io/default-container:  animals
+        kubectl.kubernetes.io/default-container:  api-app
       labels:
-        app: animals
+        app: api-app
     spec:
       affinity:
-        nodeAffinity:
+        podAntiAffinity:
           requiredDuringSchedulingIgnoredDuringExecution:
-            nodeSelectorTerms:
-            - matchExpressions:
-                - key: rank
-                  operator: Lt
-                  values: 5
+          - labelSelector:
+              matchExpressions:
+              - key: app
+                operator: In
+                values: ["animals"]
+            topologyKey: "kubernetes.io/hostname"
       containers:
       - name: animals
-        image: supergiantkir/animals:bear
+        image: supergiantkir/animals:moose
         imagePullPolicy: IfNotPresent
         resources:
           requests:

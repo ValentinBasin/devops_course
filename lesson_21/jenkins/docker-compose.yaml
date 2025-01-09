@@ -1,0 +1,60 @@
+version: "3.8"
+services:
+  docker:
+    image: docker:dind
+    container_name: docker
+    privileged: true
+    networks:
+      - jenkins_network
+    environment:
+      - DOCKER_TLS_CERTDIR=/certs
+    volumes:
+      - jenkins-docker-certs:/certs/client
+      - jenkins-home:/var/jenkins_home
+    ports:
+      - "2376:2376"
+
+  jenkins:
+    build: ./jenkins
+    privileged: true
+    container_name: jenkins
+    ports:
+      - "8080:8080"
+      - "50000:50000"
+    volumes:
+      - jenkins-home:/var/jenkins_home
+      - jenkins-docker-certs:/certs/client:ro
+    networks:
+      - jenkins_network
+    restart: on-failure
+    environment:
+      - DOCKER_HOST=tcp://docker:2376
+      - DOCKER_CERT_PATH=/certs/client
+      - DOCKER_TLS_VERIFY=1
+    depends_on:
+      - docker
+
+  agent:
+    build: ./agent
+    privileged: true
+    environment:
+      - JENKINS_URL=http://jenkins:8080
+      - JENKINS_AGENT_NAME=agent
+      - JENKINS_SECRET=723f14bd9506ff24ed227b2fe32f4ff9eac0acd55625cb24a9f1d588764c8a5b
+      - DOCKER_HOST=tcp://docker:2376
+      - DOCKER_CERT_PATH=/certs/client
+      - DOCKER_TLS_VERIFY=1
+    depends_on:
+      - jenkins
+      - docker
+    volumes:
+      - jenkins-docker-certs:/certs/client:ro
+    networks:
+      - jenkins_network
+
+networks:
+  jenkins_network: {}
+
+volumes:
+  jenkins-docker-certs: {}
+  jenkins-home: {}
